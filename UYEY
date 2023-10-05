@@ -1,0 +1,523 @@
+#EXTM3U 
+url-tvg="http://103.152.118.53:80/local/epg.xml"
+refresh="2400"
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport
+http://kuchini.site:8080/43c745b6/e43e924b19/146068
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 2
+http://kuchini.site:8080/43c745b6/e43e924b19/157556
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 3
+http://kuchini.site:8080/43c745b6/e43e924b19/157557
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 4
+http://kuchini.site:8080/43c745b6/e43e924b19/157558
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 5
+http://kuchini.site:8080/43c745b6/e43e924b19/287792
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Sportstars
+http://kuchini.site:8080/43c745b6/e43e924b19/157589
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Sportstars 2
+http://kuchini.site:8080/43c745b6/e43e924b19/298548
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Sportstars 3
+http://kuchini.site:8080/43c745b6/e43e924b19/298549
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", SPOTV
+http://kuchini.site:8080/43c745b6/e43e924b19/298570
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", SPOTV 2
+http://kuchini.site:8080/43c745b6/e43e924b19/298571
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", beIN Sports 1 ID
+http://kuchini.site:8080/43c745b6/e43e924b19/165105
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", beIN Sports 3 ID
+http://kuchini.site:8080/43c745b6/e43e924b19/298506
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", TVRI Sport
+http://kuchini.site:8080/43c745b6/e43e924b19/166686
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", ANTV
+http://kuchini.site:8080/43c745b6/e43e924b19/165072
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Arirang
+http://kuchini.site:8080/43c745b6/e43e924b19/247447
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Asian Food Network
+http://kuchini.site:8080/43c745b6/e43e924b19/298503
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", AXN
+http://kuchini.site:8080/43c745b6/e43e924b19/165079
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", BBC Earth
+http://kuchini.site:8080/43c745b6/e43e924b19/165106
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", BBC Lifestyle
+http://kuchini.site:8080/43c745b6/e43e924b19/264747
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Berita Satu
+http://kuchini.site:8080/43c745b6/e43e924b19/162513
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Berita Satu news
+http://kuchini.site:8080/43c745b6/e43e924b19/287421
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Berita Satu World
+http://kuchini.site:8080/43c745b6/e43e924b19/162136
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Bioskop Indonesia
+http://kuchini.site:8080/43c745b6/e43e924b19/264801
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Bloomberg TV
+http://kuchini.site:8080/43c745b6/e43e924b19/157599
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Boomerang
+http://kuchini.site:8080/43c745b6/e43e924b19/165109
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Boomerang EN
+http://kuchini.site:8080/43c745b6/e43e924b19/298507
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Cartoon Network
+http://kuchini.site:8080/43c745b6/e43e924b19/157593
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CCM
+http://kuchini.site:8080/43c745b6/e43e924b19/165103
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Celestial Movies
+http://kuchini.site:8080/43c745b6/e43e924b19/165065
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CGTN
+http://kuchini.site:8080/43c745b6/e43e924b19/298510
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CGTN Documentary
+http://kuchini.site:8080/43c745b6/e43e924b19/298511
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Channel News Asia
+http://kuchini.site:8080/43c745b6/e43e924b19/157602
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Chinese Drama
+http://kuchini.site:8080/43c745b6/e43e924b19/298516
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CinemaWorld
+http://kuchini.site:8080/43c745b6/e43e924b19/165082
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Cinemax
+http://kuchini.site:8080/43c745b6/e43e924b19/197964
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Citra Bioskop
+http://kuchini.site:8080/43c745b6/e43e924b19/298519
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Citra Dangdut
+http://kuchini.site:8080/43c745b6/e43e924b19/247446
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Citra Drama
+http://kuchini.site:8080/43c745b6/e43e924b19/264748
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Citra Entertainment
+http://kuchini.site:8080/43c745b6/e43e924b19/298520
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CNBC Indonesia
+http://kuchini.site:8080/43c745b6/e43e924b19/165062
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CNN Indonesia
+http://kuchini.site:8080/43c745b6/e43e924b19/162137
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", CNN International
+http://kuchini.site:8080/43c745b6/e43e924b19/264778
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Crime+ Investigation
+http://kuchini.site:8080/43c745b6/e43e924b19/165052
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Da Ai TV
+http://kuchini.site:8080/43c745b6/e43e924b19/165061
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Discovery Asia
+http://kuchini.site:8080/43c745b6/e43e924b19/197968
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Discovery World
+http://kuchini.site:8080/43c745b6/e43e924b19/157597
+ 
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Dunia Lain
+http://kuchini.site:8080/43c745b6/e43e924b19/298524
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Eat&Go
+http://kuchini.site:8080/43c745b6/e43e924b19/264765
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Ent
+http://kuchini.site:8080/43c745b6/e43e924b19/157581
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Etv Bioskop
+http://kuchini.site:8080/43c745b6/e43e924b19/298526
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Etv Bioskop 02
+http://kuchini.site:8080/43c745b6/e43e924b19/298527
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Etv Bioskop 03
+http://kuchini.site:8080/43c745b6/e43e924b19/298528
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Etv Bioskop 04
+http://kuchini.site:8080/43c745b6/e43e924b19/298529
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Fashion TV
+http://kuchini.site:8080/43c745b6/e43e924b19/298530
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Fight Sport
+http://kuchini.site:8080/43c745b6/e43e924b19/298531
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", FLIK
+http://kuchini.site:8080/43c745b6/e43e924b19/165095
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", FMN
+http://kuchini.site:8080/43c745b6/e43e924b19/165057
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Fox Life
+http://kuchini.site:8080/43c745b6/e43e924b19/165083
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Galaxy
+http://kuchini.site:8080/43c745b6/e43e924b19/264773
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Galaxy Premium
+http://kuchini.site:8080/43c745b6/e43e924b19/264774
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", GEM
+http://kuchini.site:8080/43c745b6/e43e924b19/298533
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Golf
+http://kuchini.site:8080/43c745b6/e43e924b19/298534
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", GTV
+http://kuchini.site:8080/43c745b6/e43e924b19/157578
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", HBO
+http://kuchini.site:8080/43c745b6/e43e924b19/197972
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", HBO Family
+http://kuchini.site:8080/43c745b6/e43e924b19/197055
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", HBO Hits
+http://kuchini.site:8080/43c745b6/e43e924b19/196480
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", HBO Signature
+http://kuchini.site:8080/43c745b6/e43e924b19/221948
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", HGTV
+http://kuchini.site:8080/43c745b6/e43e924b19/298535
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", History
+http://kuchini.site:8080/43c745b6/e43e924b19/162519
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Hits
+http://kuchini.site:8080/43c745b6/e43e924b19/165085
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Hits Movies
+http://kuchini.site:8080/43c745b6/e43e924b19/221947
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", IDX
+http://kuchini.site:8080/43c745b6/e43e924b19/157590
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Ie
+http://kuchini.site:8080/43c745b6/e43e924b19/157582
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", IMC
+http://kuchini.site:8080/43c745b6/e43e924b19/264769
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Indi Kids
+http://kuchini.site:8080/43c745b6/e43e924b19/298539
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Indosiar
+http://kuchini.site:8080/43c745b6/e43e924b19/162138
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", INews
+http://kuchini.site:8080/43c745b6/e43e924b19/157579
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Infotainment
+http://kuchini.site:8080/43c745b6/e43e924b19/298541
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Insert
+http://kuchini.site:8080/43c745b6/e43e924b19/264766
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Izzah TV
+http://kuchini.site:8080/43c745b6/e43e924b19/275984
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Jak TV
+http://kuchini.site:8080/43c745b6/e43e924b19/157601
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", JTV
+http://kuchini.site:8080/43c745b6/e43e924b19/165091
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", K+
+http://kuchini.site:8080/43c745b6/e43e924b19/197969
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Kids TV
+http://kuchini.site:8080/43c745b6/e43e924b19/162505
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", KIX
+http://kuchini.site:8080/43c745b6/e43e924b19/165068
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Kompas TV
+http://kuchini.site:8080/43c745b6/e43e924b19/165060
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Life
+http://kuchini.site:8080/43c745b6/e43e924b19/157585
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Lifestyle & Fashion
+http://kuchini.site:8080/43c745b6/e43e924b19/157592
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Lifetime
+http://kuchini.site:8080/43c745b6/e43e924b19/298543
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Love Nature
+http://kuchini.site:8080/43c745b6/e43e924b19/264756
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Mentari TV
+http://kuchini.site:8080/43c745b6/e43e924b19/298546
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Metro TV
+http://kuchini.site:8080/43c745b6/e43e924b19/165059
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Miao Mi
+http://kuchini.site:8080/43c745b6/e43e924b19/266805
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", MNC News
+http://kuchini.site:8080/43c745b6/e43e924b19/165058
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", MNC TV
+http://kuchini.site:8080/43c745b6/e43e924b19/165054
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Moji
+http://kuchini.site:8080/43c745b6/e43e924b19/298550
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", MQTV
+http://kuchini.site:8080/43c745b6/e43e924b19/298551
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", MTA 7 Asia
+http://kuchini.site:8080/43c745b6/e43e924b19/162522
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", MTA TV
+http://kuchini.site:8080/43c745b6/e43e924b19/298552
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Music TV
+http://kuchini.site:8080/43c745b6/e43e924b19/165108
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", My Cinema
+http://kuchini.site:8080/43c745b6/e43e924b19/298553
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", My Cinema Asia
+http://kuchini.site:8080/43c745b6/e43e924b19/298554
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", My Family
+http://kuchini.site:8080/43c745b6/e43e924b19/298555
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", My Kidz
+http://kuchini.site:8080/43c745b6/e43e924b19/298556
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Nat Geo
+http://kuchini.site:8080/43c745b6/e43e924b19/165094
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Nat Geo Wild
+http://kuchini.site:8080/43c745b6/e43e924b19/197967
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", NBA TV
+http://kuchini.site:8080/43c745b6/e43e924b19/298558
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Net
+http://kuchini.site:8080/43c745b6/e43e924b19/80292
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", NHK World
+http://kuchini.site:8080/43c745b6/e43e924b19/298560
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Nick Jr
+http://kuchini.site:8080/43c745b6/e43e924b19/165107
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Nick Jr EN
+http://kuchini.site:8080/43c745b6/e43e924b19/298561
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", nickelodeon
+http://kuchini.site:8080/43c745b6/e43e924b19/162510
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Nusantara TV
+http://kuchini.site:8080/43c745b6/e43e924b19/166410
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", OK TV
+http://kuchini.site:8080/43c745b6/e43e924b19/221956
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", ONE
+http://kuchini.site:8080/43c745b6/e43e924b19/298563
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Paramount Network
+http://kuchini.site:8080/43c745b6/e43e924b19/298564
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Rajawali TV
+http://kuchini.site:8080/43c745b6/e43e924b19/196457
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", RCTI
+http://kuchini.site:8080/43c745b6/e43e924b19/157591
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", RCTI
+http://kuchini.site:8080/43c745b6/e43e924b19/299483
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Rock Action
+http://kuchini.site:8080/43c745b6/e43e924b19/298490
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Rock Entertaiment
+http://kuchini.site:8080/43c745b6/e43e924b19/298565
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Rock Extreme
+http://kuchini.site:8080/43c745b6/e43e924b19/298566
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", RRI Net
+http://kuchini.site:8080/43c745b6/e43e924b19/266816
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", SCTV
+http://kuchini.site:8080/43c745b6/e43e924b19/162141
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", SEA Today
+http://kuchini.site:8080/43c745b6/e43e924b19/298568
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Sindonews TV
+http://kuchini.site:8080/43c745b6/e43e924b19/299485
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Smithsonian Channel
+http://kuchini.site:8080/43c745b6/e43e924b19/264767
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Sony One
+http://kuchini.site:8080/43c745b6/e43e924b19/165077
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Tech Storm
+http://kuchini.site:8080/43c745b6/e43e924b19/298572
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Thrill
+http://kuchini.site:8080/43c745b6/e43e924b19/157580
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TLC
+http://kuchini.site:8080/43c745b6/e43e924b19/165086
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Trans 7
+http://kuchini.site:8080/43c745b6/e43e924b19/162502
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Trans TV
+http://kuchini.site:8080/43c745b6/e43e924b19/162503
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TV 9 Nusantara
+http://kuchini.site:8080/43c745b6/e43e924b19/162509
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TV Mu
+http://kuchini.site:8080/43c745b6/e43e924b19/196459
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TV One
+http://kuchini.site:8080/43c745b6/e43e924b19/296214
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TVN
+http://kuchini.site:8080/43c745b6/e43e924b19/197965
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TVN Movies
+http://kuchini.site:8080/43c745b6/e43e924b19/157596
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TVRI
+http://kuchini.site:8080/43c745b6/e43e924b19/162504
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TVRI 4
+http://kuchini.site:8080/43c745b6/e43e924b19/287433
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TVRI Jawa Barat
+http://kuchini.site:8080/43c745b6/e43e924b19/166688
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", TVRI World
+http://kuchini.site:8080/43c745b6/e43e924b19/295291
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", U Channel
+http://kuchini.site:8080/43c745b6/e43e924b19/162146
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Usee Prime
+http://kuchini.site:8080/43c745b6/e43e924b19/162524
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Usee Sport 1
+http://kuchini.site:8080/43c745b6/e43e924b19/298577
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Usee Sport 2
+http://kuchini.site:8080/43c745b6/e43e924b19/298578
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Vision Prime
+http://kuchini.site:8080/43c745b6/e43e924b19/197958
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Warner TV
+http://kuchini.site:8080/43c745b6/e43e924b19/157594
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA DIGITAL", Zee Bioskop
+http://kuchini.site:8080/43c745b6/e43e924b19/157584
+ 
+@@@@@@@ SPORTS @@@@@@@
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.mncnow.id/images/channel/c350a134/2fc0_r32.jpg",Sportstars
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.mncnow.id/images/channel/7284b855/28fc_r32.jpg",Sportstars 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo=" ",Sportstars 4
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+ 
+#EXTINF:0 group-title="SPORTS",Usee Sport1
+https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
+ 
+#EXTINF:0 group-title="SPORTS",Usee Sport2
+https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
+https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
+##https://nonton.site:8443/ekos/7483/728
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3 Indonesia
+https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
+##https://nonton.site:8443/ekos/7483/729
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",Motorvision TV HD
+http://rr.dens.tv/h/h09/index.m3u8
+ 
