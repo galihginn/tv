@@ -5,7 +5,7 @@ refresh="2400"
 #EXTINF:-1 group-title="TEST", Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTB
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6685_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6685/primary/720p/v-720p-1697125395_12582006000.m4s
 
 #EXTINF:-1 group-title="ID", Sportstars
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157589
