@@ -2,6 +2,9 @@
 url-tvg="https://epg.urfan.web.id/"
 refresh="2400"
 
+#EXTINF:-1 group-title="TEST", Champions TV 1
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6685_stream.mpd
+
 #EXTINF:-1 group-title="ID", Sportstars
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157589
 #EXTINF:-1 group-title="ID", Sportstars 2
