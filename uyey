@@ -2,114 +2,140 @@
 url-tvg="https://epg.urfan.web.id/"
 refresh="2400"
 
-#EXTINF:-1 group-title="ID", Sportstars
+#EXTINF:-1 group-title="SPORTS", Sportstars
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157589
-#EXTINF:-1 group-title="ID", Sportstars 2
+#EXTINF:-1 group-title="SPORTS", Sportstars 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298548
-#EXTINF:-1 group-title="ID", Sportstars 3
+#EXTINF:-1 group-title="SPORTS", Sportstars 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298549
-#EXTINF:-1 group-title="ID", SPOTV
+#EXTINF:-1 group-title="SPORTS", SPOTV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298570
-#EXTINF:-1 group-title="ID", SPOTV 2
+#EXTINF:-1 group-title="SPORTS", SPOTV 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298571
-#EXTINF:-1 group-title="ID", Astro SuperSport
+#EXTINF:-1 group-title="SPORTS", Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 group-title="SPORTS", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS", Astro SuperSport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
-#EXTINF:-1 group-title="ID", Astro SuperSport 2
+#EXTINF:-1 group-title="SPORTS", Astro SuperSport 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157556
-#EXTINF:-1 group-title="ID", Astro SuperSport 3
+#EXTINF:-1 group-title="SPORTS", Astro SuperSport 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157557
-#EXTINF:-1 group-title="ID", Astro SuperSport 4
+#EXTINF:-1 group-title="SPORTS", Astro SuperSport 4
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157558
-#EXTINF:-1 group-title="ID", Astro SuperSport 5
+#EXTINF:-1 group-title="SPORTS", Astro SuperSport 5
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/287792
-#EXTINF:-1 group-title="ID", beIN Sports 1 ID
+#EXTINF:-1 group-title="SPORTS", beIN Sports 1 ID
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
-#EXTINF:-1 group-title="ID", beIN Sports 3 ID
+#EXTINF:-1 group-title="SPORTS", beIN Sports 3 ID
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
-#EXTINF:-1 group-title="ID", beIN Sports MY
+#EXTINF:-1 group-title="SPORTS", beIN Sports MY
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157561
-#EXTINF:-1 group-title="ID", TVRI Sport
+#EXTINF:-1 group-title="SPORTS", TVRI Sport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/166686
-#EXTINF:-1 group-title="ID", Fight Sport
+#EXTINF:-1 group-title="SPORTS", Fight Sport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298531
-#EXTINF:-1 group-title="ID", Usee Sport 1
+#EXTINF:-1 group-title="SPORTS", Usee Sport 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
-#EXTINF:-1 group-title="ID", Usee Sport 2
+#EXTINF:-1 group-title="SPORTS", Usee Sport 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298578
 
-#EXTINF:-1 group-title="ID", AXN
+#EXTINF:-1 group-title="MOVIES", AXN
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
-#EXTINF:-1 group-title="ID", Cinemax HD
+#EXTINF:-1 group-title="MOVIES", Cinemax HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
-#EXTINF:-1 group-title="ID", HBO HD
+#EXTINF:-1 group-title="MOVIES", HBO HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
-#EXTINF:-1 group-title="ID", HBO Family HD
+#EXTINF:-1 group-title="MOVIES", HBO Family HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
-#EXTINF:-1 group-title="ID", HBO Hits HD
+#EXTINF:-1 group-title="MOVIES", HBO Hits HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
-#EXTINF:-1 group-title="ID", HBO Signature HD
+#EXTINF:-1 group-title="MOVIES", HBO Signature HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
-#EXTINF:-1 group-title="ID", Galaxy
+#EXTINF:-1 group-title="MOVIES", Galaxy
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264773
-#EXTINF:-1 group-title="ID", Galaxy Premium
+#EXTINF:-1 group-title="MOVIES", Galaxy Premium
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774
-#EXTINF:-1 group-title="ID", Rock Action
+#EXTINF:-1 group-title="MOVIES", Rock Action
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298490
-#EXTINF:-1 group-title="ID", Rock Entertainment
+#EXTINF:-1 group-title="MOVIES", Rock Entertainment
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298565
-#EXTINF:-1 group-title="ID", Paramount Network
+#EXTINF:-1 group-title="MOVIES", Paramount Network
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298564
-#EXTINF:-1 group-title="ID", Warner TV
+#EXTINF:-1 group-title="MOVIES", Warner TV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157594
-#EXTINF:-1 group-title="ID", Hits
+#EXTINF:-1 group-title="MOVIES", Hits
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165085
-#EXTINF:-1 group-title="ID", Hits Movies
+#EXTINF:-1 group-title="MOVIES", Hits Movies
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221947
-#EXTINF:-1 group-title="ID", My Cinema
+#EXTINF:-1 group-title="MOVIES", My Cinema
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298553
-#EXTINF:-1 group-title="ID", My Cinema Asia
+#EXTINF:-1 group-title="MOVIES", My Cinema Asia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298554
-#EXTINF:-1 group-title="ID", My Family
+#EXTINF:-1 group-title="MOVIES", My Family
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298555
-#EXTINF:-1 group-title="ID", My Kidz
+#EXTINF:-1 group-title="MOVIES", My Kidz
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298556
-#EXTINF:-1 group-title="ID", CinemaWorld
+#EXTINF:-1 group-title="MOVIES", CinemaWorld
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
-#EXTINF:-1 group-title="ID", Etv Bioskop
+#EXTINF:-1 group-title="MOVIES", Etv Bioskop
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
-#EXTINF:-1 group-title="ID", Etv Bioskop 02
+#EXTINF:-1 group-title="MOVIES", Etv Bioskop 02
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
-#EXTINF:-1 group-title="ID", Etv Bioskop 03
+#EXTINF:-1 group-title="MOVIES", Etv Bioskop 03
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
-#EXTINF:-1 group-title="ID", Etv Bioskop 04
+#EXTINF:-1 group-title="MOVIES", Etv Bioskop 04
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
+#EXTINF:-1 group-title="MOVIES", Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTINF:-1 group-title="MOVIES", Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+#EXTINF:-1 group-title="MOVIES", Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+#EXTINF:-1 group-title="MOVIES", Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+#EXTINF:-1 group-title="MOVIES", Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+http://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-
-#EXTINF:-1 group-title="ID", GEM
+#EXTINF:-1 group-title="ENT", Nadoo Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+#EXTINF:-1 group-title="ENT", GEM
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298533
-#EXTINF:-1 group-title="ID", K+
+#EXTINF:-1 group-title="ENT", K+
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197969
-#EXTINF:-1 group-title="ID", KBS World
+#EXTINF:-1 group-title="ENT", KBS World
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197053
-#EXTINF:-1 group-title="ID", KIX
+#EXTINF:-1 group-title="ENT", KIX
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165068
-#EXTINF:-1 group-title="ID", ONE
+#EXTINF:-1 group-title="ENT", ONE
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298563
-#EXTINF:-1 group-title="ID", Sony One
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165077
-#EXTINF:-1 group-title="ID", Thrill
+#EXTINF:-1 group-title="ENT", Thrill
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157580
-#EXTINF:-1 group-title="ID", TVN
+#EXTINF:-1 group-title="ENT", TVN
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
-#EXTINF:-1 group-title="ID", TVN Movies
+#EXTINF:-1 group-title="ENT", TVN Movies
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
-#EXTINF:-1 group-title="ID", CCM
+#EXTINF:-1 group-title="ENT", CCM
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165103
-#EXTINF:-1 group-title="ID", Celestial Movies
+#EXTINF:-1 group-title="ENT", Celestial Movies
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165065
-#EXTINF:-1 group-title="ID", FMN
+#EXTINF:-1 group-title="ENT", FMN
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165057
-#EXTINF:-1 group-title="ID", Bioskop Indonesia
+#EXTINF:-1 group-title="ENT", Bioskop Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264801
-#EXTINF:-1 group-title="ID", FLIK
+#EXTINF:-1 group-title="ENT", FLIK
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
