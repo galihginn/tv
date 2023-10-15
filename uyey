@@ -8,9 +8,9 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157589
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298548
 #EXTINF:-1 group-title="ID", Sportstars 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298549
-#EXTINF:-1 group-title="ID", SpoTV
+#EXTINF:-1 group-title="ID", SPOTV
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298570
-#EXTINF:-1 group-title="ID", SpoTV 2
+#EXTINF:-1 group-title="ID", SPOTV 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298571
 #EXTINF:-1 group-title="ID", Astro SuperSport
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/146068
@@ -39,22 +39,28 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298578
 
 #EXTINF:-1 group-title="ID", AXN
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
-#EXTINF:-1 group-title="ID", CinemaWorld
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
-#EXTINF:-1 group-title="ID", Cinemax
+#EXTINF:-1 group-title="ID", Cinemax HD
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
+#EXTINF:-1 group-title="ID", HBO HD
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+#EXTINF:-1 group-title="ID", HBO Family HD
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+#EXTINF:-1 group-title="ID", HBO Hits HD
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+#EXTINF:-1 group-title="ID", HBO Signature HD
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
 #EXTINF:-1 group-title="ID", Galaxy
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264773
 #EXTINF:-1 group-title="ID", Galaxy Premium
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774
-#EXTINF:-1 group-title="ID", HBO
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
-#EXTINF:-1 group-title="ID", HBO Family
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
-#EXTINF:-1 group-title="ID", HBO Hits
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
-#EXTINF:-1 group-title="ID", HBO Signature
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
+#EXTINF:-1 group-title="ID", Rock Action
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298490
+#EXTINF:-1 group-title="ID", Rock Entertainment
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298565
+#EXTINF:-1 group-title="ID", Paramount Network
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298564
+#EXTINF:-1 group-title="ID", Warner TV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157594
 #EXTINF:-1 group-title="ID", Hits
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165085
 #EXTINF:-1 group-title="ID", Hits Movies
@@ -67,14 +73,17 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298554
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298555
 #EXTINF:-1 group-title="ID", My Kidz
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298556
-#EXTINF:-1 group-title="ID", Paramount Network
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298564
-#EXTINF:-1 group-title="ID", Rock Action
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298490
-#EXTINF:-1 group-title="ID", Rock Entertaiment
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298565
-#EXTINF:-1 group-title="ID", Warner TV
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157594
+#EXTINF:-1 group-title="ID", CinemaWorld
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
+#EXTINF:-1 group-title="ID", Etv Bioskop
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
+#EXTINF:-1 group-title="ID", Etv Bioskop 02
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
+#EXTINF:-1 group-title="ID", Etv Bioskop 03
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
+#EXTINF:-1 group-title="ID", Etv Bioskop 04
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
+
 
 #EXTINF:-1 group-title="ID", GEM
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298533
@@ -94,134 +103,13 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157580
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197965
 #EXTINF:-1 group-title="ID", TVN Movies
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157596
-#EXTINF:-1 group-title="ID", FMN
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165057
 #EXTINF:-1 group-title="ID", CCM
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165103
 #EXTINF:-1 group-title="ID", Celestial Movies
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165065
-
+#EXTINF:-1 group-title="ID", FMN
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165057
 #EXTINF:-1 group-title="ID", Bioskop Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264801
 #EXTINF:-1 group-title="ID", FLIK
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
-#EXTINF:-1 group-title="ID", Etv Bioskop
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298526
-#EXTINF:-1 group-title="ID", Etv Bioskop 02
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298527
-#EXTINF:-1 group-title="ID", Etv Bioskop 03
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298528
-#EXTINF:-1 group-title="ID", Etv Bioskop 04
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298529
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport
-http://kuchini.site:8080/43c745b6/e43e924b19/146068
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 2
-http://kuchini.site:8080/43c745b6/e43e924b19/157556
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 3
-http://kuchini.site:8080/43c745b6/e43e924b19/157557
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 4
-http://kuchini.site:8080/43c745b6/e43e924b19/157558
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Astro SuperSport 5
-http://kuchini.site:8080/43c745b6/e43e924b19/287792
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Sportstars
-http://kuchini.site:8080/43c745b6/e43e924b19/157589
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Sportstars 2
-http://kuchini.site:8080/43c745b6/e43e924b19/298548
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", Sportstars 3
-http://kuchini.site:8080/43c745b6/e43e924b19/298549
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", SPOTV
-http://kuchini.site:8080/43c745b6/e43e924b19/298570
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", SPOTV 2
-http://kuchini.site:8080/43c745b6/e43e924b19/298571
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", beIN Sports 1 ID
-http://kuchini.site:8080/43c745b6/e43e924b19/165105
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", beIN Sports 3 ID
-http://kuchini.site:8080/43c745b6/e43e924b19/298506
- 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS", TVRI Sport
-http://kuchini.site:8080/43c745b6/e43e924b19/166686
-
-
-@@@@@@@ SPORTS @@@@@@@
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.mncnow.id/images/channel/c350a134/2fc0_r32.jpg",Sportstars
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.mncnow.id/images/channel/7284b855/28fc_r32.jpg",Sportstars 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo=" ",Sportstars 4
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
- 
-#EXTINF:0 group-title="SPORTS",Usee Sport1
-https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
- 
-#EXTINF:0 group-title="SPORTS",Usee Sport2
-https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
-https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
-##https://nonton.site:8443/ekos/7483/728
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3 Indonesia
-https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
-##https://nonton.site:8443/ekos/7483/729
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="SPORTS",Unifi Sports 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
-https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
- 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",Motorvision TV HD
-http://rr.dens.tv/h/h09/index.m3u8
- 
