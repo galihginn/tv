@@ -50,13 +50,16 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298578
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298491
 #EXTINF:-1 group-title="SPORTS", ETV Live Event 02
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298492
-#EXTINF:-1 group-title="SPORTS", Champion TV 1
+#EXTINF:-1 group-title="SPORTS", Champions TV 1
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298512
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298512
-#EXTINF:-1 group-title="SPORTS", Champion TV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://strmz.my.id/drm/punyastrimz
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6685_stream.mpd
+#EXTINF:-1 group-title="SPORTS", Champions TV 2
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298513
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298513
-#EXTINF:-1 group-title="SPORTS", Champion TV 3
+#EXTINF:-1 group-title="SPORTS", Champions TV 3
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298514
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298514
 
