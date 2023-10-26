@@ -2,7 +2,7 @@
 url-tvg="https://epg.urfan.web.id/"
 refresh="2400"
 
-#EXTINF:-1 group-title="SPORTS", Sportstars
+#EXTINF:-1 group-title="SPORTS" tvg-name="Sportstars 1" tvg-logo="https://i.postimg.cc/W3QdtYwR/sstars.png", Sportstars
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157589
 #EXTINF:-1 group-title="SPORTS", Sportstars 2
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298548
