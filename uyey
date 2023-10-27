@@ -30,7 +30,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 http://iptvs.life:8080/osec/c5176e377c82/298570
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/8zDrh3QN/spotv2.png", SPOTV 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298571
+http://iptvs.life:8080/osec/c5176e377c82/298571
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/R0Z6YHZY/soccerch.png", Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,33 +42,33 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dVMhJftG/assp1.png", Astro SuperSport
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/146068
+http://iptvs.life:8080/osec/c5176e377c82/146068
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/50ktT7RY/assp2.png", Astro SuperSport 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157556
+http://iptvs.life:8080/osec/c5176e377c82/157556
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/xdnqzbmC/assp3.png", Astro SuperSport 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157557
+http://iptvs.life:8080/osec/c5176e377c82/157557
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/0Nnjd2GC/assp4.png", Astro SuperSport 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157558
+http://iptvs.life:8080/osec/c5176e377c82/157558
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/br7wNG8q/assp5.png", Astro SuperSport 5
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/287792
+http://iptvs.life:8080/osec/c5176e377c82/287792
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/cC2rg97y/bein1.png", beIN Sports 1 ID
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165105
+http://iptvs.life:8080/osec/c5176e377c82/165105
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rwSKs9K3/bein2.png", beIN Sports 3 ID
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298506
+http://iptvs.life:8080/osec/c5176e377c82/298506
 #EXTINF:-1 group-title="SPORTS", beIN Sports MY
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157561
+http://iptvs.life:8080/osec/c5176e377c82/157561
 #EXTINF:-1 group-title="SPORTS", TVRI Sport
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/166686
+http://iptvs.life:8080/osec/c5176e377c82/166686
 #EXTINF:-1 group-title="SPORTS", Fight Sport
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298531
+http://iptvs.life:8080/osec/c5176e377c82/298531
 #EXTINF:-1 group-title="SPORTS", Usee Sport 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298577
+http://iptvs.life:8080/osec/c5176e377c82/298577
 #EXTINF:-1 group-title="SPORTS", Usee Sport 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298578
+http://iptvs.life:8080/osec/c5176e377c82/298578
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/RCQR3WFb/etvle1.png", ETV Live Event 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298491
+http://iptvs.life:8080/osec/c5176e377c82/298491
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/mrvw9MCK/etvle2.png", ETV Live Event 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298492
+http://iptvs.life:8080/osec/c5176e377c82/298492
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,78 +121,78 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 
 
 #EXTINF:-1 group-title="MOVIES", AXN
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165079
+http://iptvs.life:8080/osec/c5176e377c82/165079
 #EXTINF:-1 group-title="MOVIES", Cinemax HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197964
+http://iptvs.life:8080/osec/c5176e377c82/197964
 #EXTINF:-1 group-title="MOVIES", HBO HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197972
+http://iptvs.life:8080/osec/c5176e377c82/197972
 #EXTINF:-1 group-title="MOVIES", HBO Family HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197055
+http://iptvs.life:8080/osec/c5176e377c82/197055
 #EXTINF:-1 group-title="MOVIES", HBO Hits HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/196480
+http://iptvs.life:8080/osec/c5176e377c82/196480
 #EXTINF:-1 group-title="MOVIES", HBO Signature HD
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/221948
+http://iptvs.life:8080/osec/c5176e377c82/221948
 #EXTINF:-1 group-title="MOVIES", Galaxy
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264773
+http://iptvs.life:8080/osec/c5176e377c82/264773
 #EXTINF:-1 group-title="MOVIES", Galaxy Premium
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264774
+http://iptvs.life:8080/osec/c5176e377c82/264774
 #EXTINF:-1 group-title="MOVIES", Rock Action
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298490
+http://iptvs.life:8080/osec/c5176e377c82/298490
 #EXTINF:-1 group-title="MOVIES", Rock Entertainment
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298565
+http://iptvs.life:8080/osec/c5176e377c82/298565
 #EXTINF:-1 group-title="MOVIES", Paramount Network
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298564
+http://iptvs.life:8080/osec/c5176e377c82/298564
 #EXTINF:-1 group-title="MOVIES", Warner TV
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
+http://iptvs.life:8080/osec/c5176e377c82/157594
 #EXTINF:-1 group-title="MOVIES", Hits
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165085
+http://iptvs.life:8080/osec/c5176e377c82/165085
 #EXTINF:-1 group-title="MOVIES", Hits Movies
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/221947
+http://iptvs.life:8080/osec/c5176e377c82/221947
 #EXTINF:-1 group-title="MOVIES", CinemaWorld
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165082
+http://iptvs.life:8080/osec/c5176e377c82/165082
 #EXTINF:-1 group-title="MOVIES", My Cinema
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298553
+http://iptvs.life:8080/osec/c5176e377c82/298553
 #EXTINF:-1 group-title="MOVIES", My Cinema Asia
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298554
+http://iptvs.life:8080/osec/c5176e377c82/298554
 #EXTINF:-1 group-title="MOVIES", My Family
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298555
+http://iptvs.life:8080/osec/c5176e377c82/298555
 #EXTINF:-1 group-title="MOVIES", My Kidz
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298556
+http://iptvs.life:8080/osec/c5176e377c82/298556
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/xdJ5qgJK/etvb1.png", ETV Bioskop 1
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
+http://iptvs.life:8080/osec/c5176e377c82/298526
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/KjNrCHwy/etvb2.png", ETV Bioskop 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
+http://iptvs.life:8080/osec/c5176e377c82/298527
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/vZSXQCBY/etvb3.png", ETV Bioskop 3
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
+http://iptvs.life:8080/osec/c5176e377c82/298528
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/pTKBJTBr/etvb4.png", ETV Bioskop 4
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298529
+http://iptvs.life:8080/osec/c5176e377c82/298529
 #EXTINF:-1 group-title="MOVIES", Bioskop Indonesia
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/264801
+http://iptvs.life:8080/osec/c5176e377c82/264801
 #EXTINF:-1 group-title="MOVIES", FLIK
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165095
+http://iptvs.life:8080/osec/c5176e377c82/165095
 
 #EXTINF:-1 group-title="ENT", Nadoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 #EXTINF:-1 group-title="ENT", GEM
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298533
+http://iptvs.life:8080/osec/c5176e377c82/298533
 #EXTINF:-1 group-title="ENT", K+
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197969
+http://iptvs.life:8080/osec/c5176e377c82/197969
 #EXTINF:-1 group-title="ENT", KBS World
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197053
+http://iptvs.life:8080/osec/c5176e377c82/197053
 #EXTINF:-1 group-title="ENT", KIX
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165068
+http://iptvs.life:8080/osec/c5176e377c82/165068
 #EXTINF:-1 group-title="ENT", ONE
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298563
+http://iptvs.life:8080/osec/c5176e377c82/298563
 #EXTINF:-1 group-title="ENT", Thrill
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157580
+http://iptvs.life:8080/osec/c5176e377c82/157580
 #EXTINF:-1 group-title="ENT", TVN
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197965
+http://iptvs.life:8080/osec/c5176e377c82/197965
 #EXTINF:-1 group-title="ENT", TVN Movies
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157596
+http://iptvs.life:8080/osec/c5176e377c82/157596
 #EXTINF:-1 group-title="ENT", CCM
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165103
+http://iptvs.life:8080/osec/c5176e377c82/165103
 #EXTINF:-1 group-title="ENT", Celestial Movies
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165065
+http://iptvs.life:8080/osec/c5176e377c82/165065
 #EXTINF:-1 group-title="ENT", FMN
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165057
+http://iptvs.life:8080/osec/c5176e377c82/165057
