@@ -2,6 +2,89 @@
 url-tvg="https://epg.urfan.web.id/"
 refresh="2400"
 
+=========================================================================
+LIVE
+=========================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ygJ16Q1/epl.png", group-title="LIVE", EPL 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
+https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ygJ16Q1/epl.png", group-title="LIVE", EPL 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c188d54b1b585a24c52bdbba5c3f031:2f5c37a723b9c879ec5bbe43cb34c8a3
+https://drm-epl-vidio-com-epl-3.akamaized.net/out/v1/71829de864884cb0b831334ac3dc0a2a/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ygJ16Q1/epl.png", group-title="LIVE", EPL 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eddebc801dbfca167dc077abd1c9dc:5f2fe1b86e14b590249fa9a813821377
+https://drm-epl-vidio-com-epl-5.akamaized.net/out/v1/17b4c59118e74b8d8f5761a7e10d1be2/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44S9w2Rd/live.png", group-title="LIVE", Live 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44S9w2Rd/live.png", group-title="LIVE", Live 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44S9w2Rd/live.png", group-title="LIVE", Live 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36d6fcd4402da11397ea4182101df094:d0f61dbd6f228467a3e0d7caa7ee8031
+https://production-drm-vidio-com-event-4.akamaized.net/out/v1/f5e1e4dc70e54d2eb4020b7af8eeb925/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44S9w2Rd/live.png", group-title="LIVE", Live 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
+https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44S9w2Rd/live.png", group-title="LIVE", Live 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f9a85ba8cd5d135b9ef7e6bd4721fef:fce827a829e836cc4f93e735a47d8205
+https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/664dce1a02dd4cd7a748d6eb9b719425/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/728c541035c34cc598cef262c95f7b43/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png", group-title="LIVE", MolaTV 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
+
+=========================================================================
+SPORTS
+=========================================================================
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/W3QdtYwR/sstars.png", Sportstars
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -118,7 +201,9 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/GmcHByGp/wc2.png", Champions TV World Cup 2
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 
-
+=========================================================================
+MOVIES
+=========================================================================
 
 #EXTINF:-1 group-title="MOVIES", AXN
 http://iptvs.life:8080/osec/c5176e377c82/165079
@@ -170,6 +255,10 @@ http://iptvs.life:8080/osec/c5176e377c82/298529
 http://iptvs.life:8080/osec/c5176e377c82/264801
 #EXTINF:-1 group-title="MOVIES", FLIK
 http://iptvs.life:8080/osec/c5176e377c82/165095
+
+=========================================================================
+ENT
+=========================================================================
 
 #EXTINF:-1 group-title="ENT", Nadoo Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
