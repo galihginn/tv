@@ -7,41 +7,41 @@ refresh="2400"
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 09
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 10
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3010
-
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 07
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3007
-
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 06
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3006
-
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 05
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", Warner TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
 
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 04
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", Paramount Network
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
 
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 03
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", 11
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3003
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
 
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 02
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", 12
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3002
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
-#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.ibb.co/Vgj6V5D/hbo.png", 01
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", 13
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3001
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3013
+
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", 14
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3014
+
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", 15
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3015
+
+#EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="", 16
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3016
 
 
 
