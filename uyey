@@ -206,15 +206,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://iptvs.life:8080/osec/c5176e377c82/165079
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://ktpremium.com:443/LT8008/926484/901196
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://ktpremium.com:443/LT8008/926484/901196
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax (Backup)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 http://iptvs.life:8080/osec/c5176e377c82/197964
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 https://ktpremium.com:443/LT8008/926484/73858
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO (Backup)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 http://iptvs.life:8080/osec/c5176e377c82/197972
@@ -228,9 +230,10 @@ https://ktpremium.com:443/LT8008/926484/901195
 https://ktpremium.com:443/LT8008/926484/73860
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://ktpremium.com:443/LT8008/926484/73861
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://ktpremium.com:443/LT8008/926484/73861
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature (Backup)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 http://iptvs.life:8080/osec/c5176e377c82/221948
 
