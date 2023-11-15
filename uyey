@@ -198,39 +198,39 @@ http://iptvs.life:8080/osec/c5176e377c82/298506
 MOVIES
 =========================================================================
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/W1XCng4L/axn.png", AXN HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/W1XCng4L/axn.png", AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://iptvs.life:8080/osec/c5176e377c82/165079
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://ktpremium.com:443/LT8008/926484/901196
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
-https://ktpremium.com:443/LT8008/926484/901196
 http://iptvs.life:8080/osec/c5176e377c82/197964
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://ktpremium.com:443/LT8008/926484/73858
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 http://iptvs.life:8080/osec/c5176e377c82/197972
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-http://iptvs.life:8080/osec/c5176e377c82/197055
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://ktpremium.com:443/LT8008/926484/901195
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-http://iptvs.life:8080/osec/c5176e377c82/196480
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://ktpremium.com:443/LT8008/926484/73860
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://ktpremium.com:443/LT8008/926484/73861
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 http://iptvs.life:8080/osec/c5176e377c82/221948
 
