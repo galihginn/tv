@@ -83,10 +83,10 @@ https://live.mocdn.tv/out/v1/f652f46af7114b4a9be234af2050b095/manifest_L1.mpd
 https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCQR3WFb/etvle1.png" group-title="LIVE", ETV 1
-http://iptvs.life:8080/osec/c5176e377c82/298491
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298491
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrvw9MCK/etvle2.png" group-title="LIVE", ETV 2
-http://iptvs.life:8080/osec/c5176e377c82/298492
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298492
 
 =========================================================================
 SPORTS
@@ -180,19 +180,19 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dVMhJftG/assp1.png", Astro SuperSport
-http://iptvs.life:8080/osec/c5176e377c82/146068
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/146068
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/50ktT7RY/assp2.png", Astro SuperSport 2
-http://iptvs.life:8080/osec/c5176e377c82/157556
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157556
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/xdnqzbmC/assp3.png", Astro SuperSport 3
-http://iptvs.life:8080/osec/c5176e377c82/157557
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157557
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/0Nnjd2GC/assp4.png", Astro SuperSport 4
-http://iptvs.life:8080/osec/c5176e377c82/157558
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157558
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/br7wNG8q/assp5.png", Astro SuperSport 5
-http://iptvs.life:8080/osec/c5176e377c82/287792
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/287792
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/cC2rg97y/bein1.png", beIN Sports 1 ID
-http://iptvs.life:8080/osec/c5176e377c82/165105
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165105
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rwSKs9K3/bein2.png", beIN Sports 3 ID
-http://iptvs.life:8080/osec/c5176e377c82/298506
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298506
 
 =========================================================================
 MOVIES
@@ -331,13 +331,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 http://iptvs.life:8080/osec/c5176e377c82/298556
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/xdJ5qgJK/etvb1.png", ETV Bioskop 1
-http://iptvs.life:8080/osec/c5176e377c82/298526
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298526
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/KjNrCHwy/etvb2.png", ETV Bioskop 2
-http://iptvs.life:8080/osec/c5176e377c82/298527
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298527
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/vZSXQCBY/etvb3.png", ETV Bioskop 3
-http://iptvs.life:8080/osec/c5176e377c82/298528
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298528
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/pTKBJTBr/etvb4.png", ETV Bioskop 4
-http://iptvs.life:8080/osec/c5176e377c82/298529
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298529
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/zBnkdYkb/chch.png", Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -421,68 +421,26 @@ ENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 #EXTINF:-1 group-title="ENT", GEM
-http://iptvs.life:8080/osec/c5176e377c82/298533
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298533
 #EXTINF:-1 group-title="ENT", K+
-http://iptvs.life:8080/osec/c5176e377c82/197969
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197969
 #EXTINF:-1 group-title="ENT", KBS World
-http://iptvs.life:8080/osec/c5176e377c82/197053
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197053
 #EXTINF:-1 group-title="ENT", KIX
-http://iptvs.life:8080/osec/c5176e377c82/165068
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165068
 #EXTINF:-1 group-title="ENT", ONE
-http://iptvs.life:8080/osec/c5176e377c82/298563
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298563
 #EXTINF:-1 group-title="ENT", Thrill
-http://iptvs.life:8080/osec/c5176e377c82/157580
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157580
 #EXTINF:-1 group-title="ENT", TVN
-http://iptvs.life:8080/osec/c5176e377c82/197965
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197965
 #EXTINF:-1 group-title="ENT", TVN Movies
-http://iptvs.life:8080/osec/c5176e377c82/157596
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157596
 #EXTINF:-1 group-title="ENT", CCM
-http://iptvs.life:8080/osec/c5176e377c82/165103
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165103
 #EXTINF:-1 group-title="ENT", Celestial Movies
-http://iptvs.life:8080/osec/c5176e377c82/165065
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165065
 #EXTINF:-1 group-title="ENT", FMN
-http://iptvs.life:8080/osec/c5176e377c82/165057
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165057
 
 =========================================================================
-TEST
-=========================================================================
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3001
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3002
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3003
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3006
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 5
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3007
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 6
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3010
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3011
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 8
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3013
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 9
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3014
-
-#EXTINF:-1 tvg-logo="" group-title="TEST", 0
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3015
