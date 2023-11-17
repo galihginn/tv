@@ -715,11 +715,27 @@ http://208.115.225.174:14165
 ENT
 =========================================================================
 
-#EXTINF:-1 group-title="ENT", Nadoo Korean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+#EXTINF:-1 group-title="ENT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg", Live Streaming 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.35/x6bnqe/s/s100/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Live_Streaming_1
+
+#EXTINF:-1 group-title="ENT" tvg-logo="", Live Streaming 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#http://210.210.155.35/uq2663/h/h998/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Live_Streaming_2
+
+#EXTINF:-1 group-title="ENT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692758975_tvchannels_v1.jpg", NaDoo Commerce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.35/uq2663/h/h126/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDoo_Commerce
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&userid=jjj&chname=NaDoo_Commerce
+
+#EXTINF:-1 group-title="ENT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", NaDoo Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
+
 #EXTINF:-1 group-title="ENT" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg", Chinese Drama
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298516
+
 #EXTINF:-1 group-title="ENT", GEM
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298533
 #EXTINF:-1 group-title="ENT", K+
