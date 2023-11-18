@@ -554,9 +554,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165079
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 
@@ -565,9 +562,6 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 
@@ -576,9 +570,6 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
 
@@ -587,9 +578,6 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
 https://ktpremium.com:443/LT8008/926484/901195
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
 
@@ -604,16 +592,6 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature (Alt)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Tw89q3nv/pmnt.png", Paramount Network
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298564
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Nj573H4w/wbtv.png", Warner TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157594
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/4NvrYrk3/glxy.png", Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -657,15 +635,20 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165085
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221947
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Tw89q3nv/pmnt.png", Paramount Network
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298564
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Nj573H4w/wbtv.png", Warner TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157594
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/MKwLJdMJ/cwld.png", CinemaWorld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/DwjpshC7/mce.png", My Cinema Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/prCJHQ4P/mcn.png", My Cinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -694,6 +677,11 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298555
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298556
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/DwjpshC7/mce.png", My Cinema Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/xdJ5qgJK/etvb1.png", ETV Bioskop 1
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298526
