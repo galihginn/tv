@@ -262,7 +262,7 @@ https://production-drm-vidio-com-event-10.akamaized.net/out/v1/194c465439d64a83b
 #KODIPROP:inputstream.adaptive.license_key=59b2f57473739523e5627132d9e04603:5751379870ddad5bba06f1d8cbdd2984
 #https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="TVRI SPORT" tvg-logo="https://i.ibb.co/qMp2KZt/TVRI-SPORT.png", TVRI Sports
+#EXTINF:-1 group-title="SPORTS" tvg-id="TVRI SPORT" tvg-logo="https://i.ibb.co/qMp2KZt/TVRI-SPORT.png", TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="useesports.id" tvg-logo="https://i.imgur.com/DeA35re.png", Usee Sports 1
@@ -305,13 +305,21 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157558
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/br7wNG8q/assp5.png", Astro SuperSport 5
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/287792
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" ,Astro Arena Bola 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ktpremium.com:443/w3398/09272659954/912889
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORTS", Astro Arena Bola 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HUmxNelZrWWpNdFpqUTNOUzAwTnpkaUxUZzBZamt0WVRnNVltWTFaVFEyT0RKaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDI4NTEyOCwiaWF0IjoxNjk5NjgxMTI4fQ.xDs5ZPN9tAc67m6zWYwAX1MqdhJ1ozlQ4_QECyah33Q","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d75e7c38"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
+https://tinyurl.com/workersookaorang/d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png", Astro Arena Bola 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ktpremium.com:443/w3398/09272659954/912890
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png" group-title="SPORTS", Astro Arena Bola 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HUmxNelZrWWpNdFpqUTNOUzAwTnpkaUxUZzBZamt0WVRnNVltWTFaVFEyT0RKaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDI4NTEyOCwiaWF0IjoxNjk5NjgxMTI4fQ.xDs5ZPN9tAc67m6zWYwAX1MqdhJ1ozlQ4_QECyah33Q","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d75e7c38"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+https://tinyurl.com/workersookaorang/d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN Sports HD" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png" group-title="SPORTS", Astro beIN Sports 1 MY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -536,41 +544,44 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165079
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://ktpremium.com:443/LT8008/926484/901196
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://ktpremium.com:443/LT8008/926484/73858
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://ktpremium.com:443/LT8008/926484/901195
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family (Alt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://ktpremium.com:443/LT8008/926484/73860
+https://ktpremium.com:443/LT8008/926484/901195
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits (Alt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+https://ktpremium.com:443/LT8008/926484/73860
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature (Alt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://ktpremium.com:443/LT8008/926484/73861
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Tw89q3nv/pmnt.png", Paramount Network
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
