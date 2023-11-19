@@ -554,44 +554,44 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165079
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax (Alt)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax (Alt)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO (Alt)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO (Alt)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family (Alt)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 https://ktpremium.com:443/LT8008/926484/901195
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family (Alt)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits (Alt)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 https://ktpremium.com:443/LT8008/926484/73860
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits (Alt)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature (Alt)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature (Alt)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/4NvrYrk3/glxy.png", Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
