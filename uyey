@@ -254,24 +254,38 @@ http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298516
 
 #EXTINF:-1 group-title="ENT", GEM
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298533
+
 #EXTINF:-1 group-title="ENT", K+
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197969
+
 #EXTINF:-1 group-title="ENT", KBS World
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197053
+
 #EXTINF:-1 group-title="ENT", KIX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165068
+
 #EXTINF:-1 group-title="ENT", ONE
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298563
-#EXTINF:-1 group-title="ENT", Thrill
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157580
+
 #EXTINF:-1 group-title="ENT", TVN
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197965
+
 #EXTINF:-1 group-title="ENT", TVN Movies
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157596
+
+#EXTINF:-1 group-title="ENT", Thrill
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157580
+
 #EXTINF:-1 group-title="ENT", CCM
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165103
+
 #EXTINF:-1 group-title="ENT", Celestial Movies
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165065
+
 #EXTINF:-1 group-title="ENT", FMN
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165057
 
