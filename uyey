@@ -263,8 +263,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197969
 
 #EXTINF:-1 group-title="ENT" tvg-id="kbsworld" tvg-logo="https://i.imgur.com/vylHBC8.png", KBS World
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/kbsworld/index.m3u8
+https://ctrl.laotv.la/live/KBS/index.m3u8
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197053
 
 #EXTINF:-1 group-title="ENT" tvg-id="kix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png", KIX
