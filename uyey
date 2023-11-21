@@ -544,8 +544,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/R0Z6YHZY/soccerch.png", Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+**https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/0jMNsYTt/ctv1.png", Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -616,14 +617,23 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/146068
 https://tinyurl.com/workersookaorang/d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/xdnqzbmC/assp3.png", Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium125/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f5b73b"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+https://tinyurl.com/workersookaorang/d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157557
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/0Nnjd2GC/assp4.png", Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f5b73b"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+https://tinyurl.com/workersookaorang/d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157558
 
 #EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORTS", Astro Arena Bola
@@ -772,7 +782,7 @@ https://webudit.hlsjs.ru/lb/premium593/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium594/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport8.nz" tvg-name="SKY SPORT PREMIER LEAGUE HD" group-logo="https://i.postimg.cc/NGNY8yxM/epl.png" tvg-logo="https://i.postimg.cc/fyDThFYs/sky-EPL.png" group-title="SPORTS", Sky Sport 8 Premier League (NZ)
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport8.nz" tvg-name="SKY SPORT PREMIER LEAGUE HD" group-logo="https://i.postimg.cc/NGNY8yxM/epl.png" tvg-logo="https://i.postimg.cc/fyDThFYs/sky-EPL.png" group-title="SPORTS", Sky Sport 8 - Premier League (NZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium595/index.m3u8
@@ -781,19 +791,19 @@ https://webudit.hlsjs.ru/lb/premium595/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium596/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png", Sky Sport Motogp (IT)
+#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png", Sky Sport Motogp
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium575/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.it" tvg-logo="https://i.postimg.cc/BvrtbrDp/20230720-212231.png", Sky Sport Summer (IT)
+#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.it" tvg-logo="https://i.postimg.cc/BvrtbrDp/20230720-212231.png", Sky Sport Uno
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium461/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png", Sky Sport Top Event (DE)
+#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png", Sky Sport Top Event
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium556/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png", Sky Sport Mix (DE)
+#EXTINF:-1 group-title="SPORTS" tvg-id="skysport.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png", Sky Sport Mix
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium557/index.m3u8
@@ -1316,58 +1326,5 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
 
 =========================================================================
-EXCLUSIVE
-=========================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 1 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 1 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567118
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 2 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 2 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567119
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 3 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 3 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567120
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 4 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 4 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567121
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 5 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 5 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567122
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 6 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 6 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567123
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 7 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 7 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567124
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 8 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 8 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567125
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 9 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 9 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567126
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 10 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 10 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567127
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 11 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 11 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567128
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 12 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 12 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567129
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Premiere 13 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Premiere 13 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567130
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series info ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series info ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567131
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 1 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 1 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567132
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 2 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 2 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567133
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 3 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 3 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567134
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 4 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 4 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567135
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 5 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 5 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567136
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 6 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 6 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567137
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 7 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 7 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567138
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 8 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 8 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567139
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 9 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 9 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567140
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Series 10 ᴴᴰ" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="EXCLUSIVE", Netflix Series 10 ᴴᴰ
-http://elitepanel.site:8080/Dusty/79grw5VwvD/567141
-
-=========================================================================
-
-#EXTM3U billed-msg="Update 17 Nov, uyey™ corp"
+#EXTM3U billed-msg="uyey™ corp"
