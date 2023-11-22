@@ -938,7 +938,8 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=li
 https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png", Mentari TV
-https://iptvme.xyz:443/vid/hls.m3u8?id=8237
+http://103.166.27.2:8112/play/a018/index.m3u8
+http://ogietv.biz.id:80/play/BLEoZfmtlxiswiraAopgc3Rte7qwJQ2WFEz9sHdATWI/ts%20
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="inews.id" tvg-logo="https://i.imgur.com/sojdCIg.png", iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -957,9 +958,10 @@ http://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist.m3u8
 http://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png", Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/640px-BTV_%28Indonesia%29_logo.svg.png", BTV (BeritaSatu)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -994,19 +996,19 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-id="jakartaglobenews.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest", Jakarta Globe
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="jaktv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png", JakTV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="jaktv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png", Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="jpmtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png", JPMTV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="jpmtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png", JPM TV
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="inspiratv.id" tvg-logo="https://i.imgur.com/P52FAaB.png", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/chunks.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="daaitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png", DAAITV
+#EXTINF:-1 group-title="NASIONAL" tvg-id="daaitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png", DAAI TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="jtv.id" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png", JTV
@@ -1019,8 +1021,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="elshintatv.id" tvg-logo="https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png", Elshinta TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://iptvme.xyz:443/vid/hls.m3u8?id=10975
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="jogjaistimewatv.id" tvg-logo="https://i.imgur.com/wkK7YNx.png", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
