@@ -877,16 +877,6 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-025/stream.mpd?p=web
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png", FIFA+ TV
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png", FIFA+ 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6NTRhNzAxNGQtY2VlMy00MmVmLWJlZWYtOTkzMjgwNmI0ZWY0
-https://d2h3grlsj8f9qu.cloudfront.net/out/v1/df357e7da00b4f528989176850153919/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png", FIFA+ 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6ZDc0ZGI4YzMtZTcyZS00ZThkLWFhMjItYjc1ZDhkMWYwMTM5
-https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jM1FeOX.png", Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
@@ -1155,24 +1145,16 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTINF:-1 group-title="NASIONAL" tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png", Digione
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png", Digione (Alt)
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="", Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL", Citra Bioskop
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="", Citra Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL", Citra Dangdut
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="", Citra Dangdut
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL", Citra Drama
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL", Citra Entertainment
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="", Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="", Citra Muslim
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="biznetadventure.id" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -1269,7 +1251,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png", Pesona Indonesia
 https://h1.intechmedia.net/intech/ch92.m3u8
 
-
+=========================================================================
+LOCAL
+=========================================================================
 
 #EXTINF:-1 group-title="LOCAL" tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/p0QTTf5/BALITV.png", Bali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1466,16 +1450,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
 #EXTINF:-1 group-title="FMX" tvg-logo="", CNA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="", Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="", Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="", Citra Drama
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="", Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
-#EXTINF:-1 group-title="FMX" tvg-logo="", Citra Muslim
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 #EXTINF:-1 group-title="FMX" tvg-logo="", CNN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
 #EXTINF:-1 group-title="FMX" tvg-logo="", Crime Investigation
