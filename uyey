@@ -484,6 +484,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Midnight Secret
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/6u4tZn6.png", Fashion TV Asia
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/vQuyyWO.png", Fashion TV UHD
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/4unUuGy.png", World Fashion Channel
+https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u
 
