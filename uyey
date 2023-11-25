@@ -380,6 +380,13 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=
 http://210.210.155.35/uq2663/h/h126/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDoo_Commerce
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&userid=jjj&chname=NaDoo_Commerce
 
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/Tf0vweF.png", K-Pop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png", Mnet Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://everylive.online/live/mnet/livestream.m3u8
+
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png", Arirang
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
 
@@ -1447,12 +1454,16 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d
 
 #EXTINF:-1 group-title="NUSANTARA" tvg-logo="", Citra Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+
 #EXTINF:-1 group-title="NUSANTARA" tvg-logo="", Citra Dangdut
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+
 #EXTINF:-1 group-title="NUSANTARA" tvg-logo="", Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+
 #EXTINF:-1 group-title="NUSANTARA" tvg-logo="", Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+
 #EXTINF:-1 group-title="NUSANTARA" tvg-logo="", Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
@@ -1814,20 +1825,244 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index
 MUSIC
 =========================================================================
 
+#EXTINF:-1 group-title="MUSIC" tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png", Aquarius Musikindo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="musica.id" tvg-logo="https://iptv.urfan.web.id/logo/musica.png", Musica Studios
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="nagaswara.id" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png", Nagaswara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kister.net/mpl/yt2m3u8?w=@nagaswarafmbgr
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="ikonser.id" tvg-logo="https://ikonser.id/assets/img/images/logo-new-1.png", I-Konser
+http://beetv.my.id/x/usee-ikonser-gojokkk.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png", Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="musikindonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png", Musik Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="nusantaramusik.id" tvg-logo="https://iptv.urfan.web.id/logo/musiknusa.png", Nusantara Musik
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="molahitstv.es" tvg-logo="https://pbs.twimg.com/profile_images/1437729790296002567/SCHhYgkZ_400x400.jpg", Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", MTV 90
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="mtveast.us" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/white-mtv-png-logo-19.png", MTV USA
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.hlsjs.ru/lb/premium371/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://i.imgur.com/kXwxqg3.png", MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://i.imgur.com/7R6I542.png", MTV Block Party
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://i.imgur.com/mzF1SN8.png", MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", Praise
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", Stingray Festival
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", Stingray Jazz
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", Stingray Naturescape
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", Stingray Now
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
+
+=========================================================================
+RADIO
+=========================================================================
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7184.jpg", Ardan FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7188.jpg", MGT Radio
+https://s1.gntr.net/listen/mgtradio/mgtradio
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7092.jpg", Delta FM
+http://live.masima.cloud:9002/deltafm
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7057.jpg", I Radio
+https://n0a.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABikYopAcAhOtLaTDGni82vQ
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7004.jpg", Prambors Radio
+https://23743.live.streamtheworld.com:443/PRAMBORS_FMAAC.aac?dist=onlineradiobox
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/bGvJ6py.png", Hitz FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/w9WCFqr.png", Hot FM
+https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/u09ERA9.png", Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7166.jpg", Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7055.jpg", Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7056.jpg", Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png", V Radio
+http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/VDOHWd0.png", Hitz FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7054.jpg", Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7053.jpg", Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/vOliZ6Z.png", Hard Rock FM
+http://stream.radiojar.com/fnex9bkswk8uv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/MmFTrZK.png", Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/BwULFUI.png", Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/L8w4lBH.jpg", Heartline Bali
+http://202.129.186.43:7028/stream
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/L8w4lBH.jpg", Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/dpADolC.png", Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/Crxg4DR.png", Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7130.jpg", Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7091.jpg", Bahana FM
+https://stream.cloudmu.id/listen/bahana_fm/stream?icy=http
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/Xs4j9YI.png", EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7169.jpg", Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7216.jpg", Geronimo FM
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="http://choos.wap.sh/images/radio/7284.jpg", Gajah Mada FM
+https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/zj6og3B.png", OZ Radio Jakarta
+https://s3.vinhostmedia.com:10995/;stream/1
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1", Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1", Gen FM Surabaya
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://i.imgur.com/1XVJfE5.png", Magic FM
+https://stream.zeno.fm/fw1368t3vc9uv
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1", Jak FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png", Slow FM
+http://onlineradiobox.com/json/id/slow/play
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png", Kis Rock
+http://onlineradiobox.com/json/id/kisrock/play
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1", Kis FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-id="RadioParlemen.id" tvg-logo="https://iptv.urfan.web.id/logo/radioparlemen.png", Radio Parlemen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://icecast.dpr.go.id/dpr.audio
+
+#EXTINF:-1 group-title="RADIO" tvg-id="pramborsfm.id" tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png", Prambors FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
+
+#EXTINF:-1 group-title="RADIO" tvg-id="radiogentara.id" tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png", Radio Gentara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://s1.gntr.net/radio/8080/gentara128
+
+#EXTINF:-1 group-title="RADIO" tvg-id="dmi.id" tvg-logo="https://iptv.urfan.web.id/logo/dmi.png", DMI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://radione.top:8000/dmi
+
+#EXTINF:-1 group-title="RADIO" tvg-id="radiosolopos.id" tvg-logo="https://iptv.urfan.web.id/logo/radiosolopos.png", Radio Solopos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://radio.solopos.com:8002/stream
+
+#EXTINF:-1 group-title="RADIO" tvg-id="mtafm.id" tvg-logo="https://iptv.urfan.web.id/logo/mtafm.png", MTA FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://103.129.223.201:1079/;
+
+#EXTINF:-1 group-title="RADIO" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png", Persada FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://103.129.223.201:1079/;
+
+#EXTINF:-1 group-title="RADIO" tvg-id="nasionalfm.bn" tvg-logo="https://iptv.urfan.web.id/logo/nasionalfm.png", Nasional FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-id="pilihanfm.bn" tvg-logo="https://iptv.urfan.web.id/logo/pilihanfm.png", Pilihan FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-id="pelangifm.bn" tvg-logo="https://iptv.urfan.web.id/logo/pelangifm.png", Pelangi FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-id="harmonifm.bn" tvg-logo="https://iptv.urfan.web.id/logo/harmonifm.png", Harmoni FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-id="nurislamfm.bn" tvg-logo="https://iptv.urfan.web.id/logo/nurislamfm.png", Nur Islam FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO" tvg-id="urfanradio.id" tvg-logo="https://iptv.urfan.web.id/logo/urfanradio.png", Urfan Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://s.urfan.web.id/dengar
+
+#EXTINF:-1 group-title="RADIO" tvg-id="persadafm.id" tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png", Persada FM (Radio Visual)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://kister.net/mpl/yt2m3u8?w=@1022PersadaFMSolo
 
 =========================================================================
 
