@@ -79,7 +79,7 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits TEST
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3378.mpd
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3378
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
