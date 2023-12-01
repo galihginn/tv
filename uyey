@@ -237,7 +237,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd  
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7L5snRc0/hbo-e.png", HBO (West)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7L5snRc0/hbo-e.png", HBO (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -246,11 +246,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://208.115.225.174:14136
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/gj81q7xN/hbop-e.png", HBO+ (West)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/gj81q7xN/hbop-e.png", HBO+ (East)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://208.115.225.174:14152
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/FRcT2LhK/hbo2-e.png", HBO 2 (West)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/FRcT2LhK/hbo2-e.png", HBO 2 (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -259,7 +264,7 @@ http://208.115.225.174:14152
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://208.115.225.174:14140
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/tTVcpcNp/hbof-e.png", HBO Family (West)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/tTVcpcNp/hbof-e.png", HBO Family (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -268,7 +273,7 @@ http://208.115.225.174:14140
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://208.115.225.174:14144
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/4yQB3R7k/hbos-e.png", HBO Signature (West)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/4yQB3R7k/hbos-e.png", HBO Signature (East)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -277,7 +282,12 @@ http://208.115.225.174:14144
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://208.115.225.174:14160
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/qMQ1V0H2/hbox-e.png", HBO Xtreme (West)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/qMQ1V0H2/hbox-e.png", HBO Xtreme (East)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://208.115.225.174:14165
 
@@ -294,7 +304,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 http://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg", Chinese Drama
-http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298516
+http://myteve.online:8080/Omni/kTxd7pe4MwVU8DJQ/298516
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png", Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
