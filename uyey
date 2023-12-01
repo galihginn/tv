@@ -448,7 +448,7 @@ https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="KOREA" tvg-id="ebs2tv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png", EBS 2
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 group-title="KOREA" tvg-id="jtbc.kr" tvg-logo="https://0nline.tv/wp-content/uploads/2020/03/jtbc-1-1024x525.png", Jtbc Korean
+#EXTINF:-1 group-title="KOREA" tvg-id="jtbc.kr" tvg-logo="https://0nline.tv/wp-content/uploads/2020/03/jtbc-1-1024x525.png", JTBC Korean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://everylive.online/live/jtbc/livestream.m3u8
 
@@ -462,7 +462,7 @@ http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
 #EXTINF:-1 group-title="KOREA" tvg-id="kbsjoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/640px-KBS_JOY.svg.png", KBS Joy
 http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
 
-#EXTINF:-1 group-title="KOREA" tvg-id="kbslife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/640px-KBS_Life.svg.png",KBS Life
+#EXTINF:-1 group-title="KOREA" tvg-id="kbslife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/640px-KBS_Life.svg.png", KBS Life
 http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
 
 #EXTINF:-1 group-title="KOREA" tvg-id="kbsstory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/640px-KBS_Story.svg.png", KBS Story
@@ -476,6 +476,25 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-id="Kpoptv.KR" tvg-name="KPOPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBztGbjCkUkc2c_uLkR9XeUlM0gaf-M_6Khg&usqp=CAU", The Kpop By SBS
 https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="", ABN News
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", Economy TV
+https://ythls.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", K Shopping
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", TBS
+https://ythls.onrender.com/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", TV Chosun 1
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 group-title="KOREA" tvg-logo="", TV Chosun 2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
 ==================================================================================================================================================
 ENTERTAINMENT
