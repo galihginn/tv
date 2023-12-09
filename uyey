@@ -2702,12 +2702,6 @@ https://tvm-live-akamai.akamaized.net/tvm-packager-prod/group1/60896c3647a23d7f1
 LIVE
 ==================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCQR3WFb/etvle1.png" group-title="LIVE", ETV 1
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/298491
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrvw9MCK/etvle2.png" group-title="LIVE", ETV 2
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/298492
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ygJ16Q1/epl.png" group-title="LIVE", EPL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2797,6 +2791,26 @@ https://production-drm-vidio-com-event-9.akamaized.net/out/v1/aaf192224b5d4f6d92
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9aaeb3f74e57ee6d32b2b00359e711c5:8edaf24345beda77edb5430f76153e5d
 https://production-drm-vidio-com-event-10.akamaized.net/out/v1/194c465439d64a83ba65537ca86180a3/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 1
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 2
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 3
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 4
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.mpd
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 5
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.mpd
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 6
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.mpd
+#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2019%2F03%2F5c9cf212268c8.png&w=96&h=96&q=100" group-title="LIVE", Live AISPlay 7
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCQR3WFb/etvle1.png" group-title="LIVE", ETV 1
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/298491
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrvw9MCK/etvle2.png" group-title="LIVE", ETV 2
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/298492
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTNbZG9P/mola.png" group-title="LIVE", Mola TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
