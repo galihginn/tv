@@ -1950,14 +1950,6 @@ http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=559747&extension=
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.hlsjs.ru/lb/premium100/index.m3u8
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinSportsXtra2.qa" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f895%2fbein-sports-xtra-1.png", beIN Sports Xtra 2
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.hlsjs.ru/lb/premium101/index.m3u8
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinSportsXtra3.qa" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f895%2fbein-sports-xtra-1.png", beIN Sports Xtra 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.hlsjs.ru/lb/premium102/index.m3u8
 
 #EXTINF:-1 group-title="SPORTSCENTER" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_Rugby_2023.png", beIN Sports Rugby
 #KODIPROP:inputstream.adaptive.license_type=clearkey
