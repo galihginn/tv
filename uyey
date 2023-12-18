@@ -1675,6 +1675,16 @@ https://sange-astro.palat.workers.dev/5066/default.mpd|Referer=I_Love_OnlyFans
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
 https://sange-astro.palat.workers.dev/2705/default.mpd|Referer=I_Love_OnlyFans
 
+#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="SPORTS" tvg-logo="https://i.imgur.com/Vtk2cGI.png", beIN Sports 1 TH
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="SPORTS" tvg-logo="https://i.imgur.com/vUJZSvs.png", beIN Sports 2 TH
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_Rugby_2023.png", beIN Sports Rugby
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125
+#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5125/default.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dVMhJftG/assp1.png", Astro SuperSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
@@ -1704,11 +1714,6 @@ https://astro.cdnstreamr.workers.dev/dash-wv/linear/2604/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 https://astro.cdnstreamr.workers.dev/dash-wv/linear/5057/default.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_Rugby_2023.png", beIN Sports Rugby
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125
-#https://kutilkuda.adventureoryx.workers.dev/dash-wv/linear/5125/default.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3xc6rTZy/20220928-111816.png", Edge Sport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -2030,35 +2035,34 @@ https://webudit.hlsjs.ru/lb/premium63/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium64/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTSCENTER", beIN Sports 1 TH
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports1thailand.th" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", beIN Sports 1 AISPlay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="SPORTSCENTER", beIN Sports 2 TH
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports2thailand.th" tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png", beIN Sports 2 AISPlay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="SPORTSCENTER", beIN Sports 3 TH
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports3thailand.th" tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png", beIN Sports 3 AISPlay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports4ar.id" tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png", beIN Sports 4 TH
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports4thailand.th" tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png", beIN Sports 4 AISPlay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports5ar.id" tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png", beIN Sports 5 TH
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports5thailand.th" tvg-logo="https://i.ibb.co/8z92d2F/Bein-5.png", beIN Sports 5 AISPlay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports6ar.id" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", beIN Sports 6 TH
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports6thailand.th" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", beIN Sports 6 AISPlay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
-#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports7ar.id" tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png", beIN Sports 7 TH
+#EXTINF:-1 group-title="SPORTSCENTER" tvg-id="beinsports7thailand.th" tvg-logo="https://i.ibb.co/pK7Y84R/Bein-7.png", beIN Sports 7 AISPlay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
