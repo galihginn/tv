@@ -1,256 +1,256 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TRT Spor TR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium1/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TRT Avaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium2/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium3/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , CBC Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium4/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Moviestar LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium5/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium6/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium7/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium8/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium9/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , KHL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium10/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , KHL Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium11/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , LaLiga TV Hypermotion V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium12/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium13/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium14/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium15/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium16/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium17/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , V Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium18/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium19/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium20/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Eleven Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium21/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Mediaset 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium22/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium23/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium24/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium25/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium26/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium27/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium28/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium29/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , MyTeam TV 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium30/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium31/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium32/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium33/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium34/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium35/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium36/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sports NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium37/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium38/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Fox Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium39/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Tennis TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium40/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium41/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium42/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Live ?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium43/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium44/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium45/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , 46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium46/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium47/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Canal+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium48/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , SportTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium49/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , Polsat Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium50/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , TEST
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="" , ABC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium51/index.m3u8
