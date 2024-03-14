@@ -3211,6 +3211,25 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/ind
 #EXTINF:-1 tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE", JIOCINEMA Event Sport 15
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 4
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 5
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 6
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE", P Live 9
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/M3U/PLlive9.m3u8
+
 ==================================================================================================================================================
 
 #EXTM3U billed-msg="uyey™ TV | Tidak diperjualbelikan, hanya penyusunan ulang playlist"
