@@ -1,22 +1,20 @@
 #EXTM3U tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml", refresh="1440" max-conn="1" refresh="24"
 tvg-url="https://thefirefox12537.github.io/streams/epg/guide.xml.gz", refresh="3600"
-                                *****************NEW VISION+****************
 
-#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+*****************NEW VISION+****************
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars1.jpg" group-title="Indonesia 5G+",,Sportstars
 #KODIPROP:inputstream.adaptive.manifest_type=auto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars2.jpg" group-title="Indonesia 5G+",,Sportstars 2
 #KODIPROP:inputstream.adaptive.manifest_type=auto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars3.jpg" group-title="Indonesia 5G+",,Sportstars 3
 #KODIPROP:inputstream.adaptive.manifest_type=auto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,7 +47,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/1bdda9bb5aa7415f821ca0eb8b0e8f89/index.mpd
 
-#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Soccer%20Channel%20.jpg" group-title="Indonesia 5G+",,Soccer Channel
 #KODIPROP:inputstream.adaptive.manifest_type=auto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
