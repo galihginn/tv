@@ -124,13 +124,11 @@ EXTVLCOPT:http-referrer=http://dens.tv
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Paramount-HD/sa_dash/Paramount-HD.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/Nj573H4w/wbtv.png", Warner TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/500px-StudioUniversal2016.png", Studio Universal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_09/large.1695387832464.png.e493f7dcb17e0663ea2cffc1621f3268.png", Studio Universal
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
