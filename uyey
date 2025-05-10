@@ -354,28 +354,28 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 SPORTSERVER
 ==================================================================================================================================================
 
-#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Grandstand?file=Astro_Grandstand_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Grandstand
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTSERVER", Astro Grandstand
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
 
-#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Football?file=Astro_Football_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Football
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTSERVER", Astro Football
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
 
-#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Premier_League?file=Astro_Premier_League_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Premier League
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTSERVER", Astro Premier League
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
 
-#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Premier_League_2?file=Astro_Premier_League_2_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Premier League 2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTSERVER", Astro Premier League 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://logos.fandom.com/wiki/Astro_Cricket?file=Astro_Cricket_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Cricket
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTSERVER", Astro Cricket
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_1?file=Arena_Sport_1_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 1
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo_v2.png?1737118885" group-title="SPORTSERVER", Arena Premium 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_2?file=Arena_Sport_2_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 2
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo_v2.png?1737119008" group-title="SPORTSERVER", Arena Premium 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_3?file=Arena_Sport_3_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 3
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_RS_logo_v2.png?1737119207" group-title="SPORTSERVER", Arena Premium 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png?1737563804", Arena Sport 1
