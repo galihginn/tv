@@ -378,13 +378,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premiu
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_3?file=Arena_Sport_3_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_1_(Balkans)?file=Arena_Sport_1_%282019%2C_short%29.svg", Arena Sport 1
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png?1737563804", Arena Sport 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_2_(Balkans)?file=Arena_Sport_2_%282019%2C_short%29.svg", Arena Sport 2
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo_v3.png?1737622079", Arena Sport 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_3?file=Arena_Sport_3_%282019%2C_short%29.svg", Arena Sport 3
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo_v3.png?1737622697", Arena Sport 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
