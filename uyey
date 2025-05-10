@@ -366,6 +366,9 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premie
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTSERVER", Astro Premier League 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
 
+#EXTINF: -1 tvg-logo="https://ms.m.wikipedia.org/wiki/Astro_Badminton#/media/Fail%3AAstro_Badminton_(2024).png" group-title="SPORTSERVER", Astro Badminton
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20badminton.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTSERVER", Astro Cricket
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
