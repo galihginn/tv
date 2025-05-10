@@ -354,6 +354,39 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 SPORTSERVER
 ==================================================================================================================================================
 
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Grandstand?file=Astro_Grandstand_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Grandstand
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Football?file=Astro_Football_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Football
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Premier_League?file=Astro_Premier_League_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Premier League
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Astro_Premier_League_2?file=Astro_Premier_League_2_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Premier League 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://logos.fandom.com/wiki/Astro_Cricket?file=Astro_Cricket_%28Oct_2024%29.png" group-title="SPORTSERVER", Astro Cricket
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_1?file=Arena_Sport_1_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_2?file=Arena_Sport_2_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_Premium_3?file=Arena_Sport_3_Premium_%282021%2C_short%29.svg" group-title="SPORTSERVER", Arena Premium 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_1_(Balkans)?file=Arena_Sport_1_%282019%2C_short%29.svg", Arena Sport 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_2_(Balkans)?file=Arena_Sport_2_%282019%2C_short%29.svg", Arena Sport 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://logos.fandom.com/wiki/Arena_Sport_3?file=Arena_Sport_3_%282019%2C_short%29.svg", Arena Sport 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
+
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
@@ -384,24 +417,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://i.imgur.com/tSzWDN4.png" group-title="SPORTSERVER", Arena Premium 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="https://i.imgur.com/hU5CFvo.png" group-title="SPORTSERVER", Arena Premium 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="https://i.imgur.com/HNqMZVR.png" group-title="SPORTSERVER", Arena Premium 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20premium%203.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png", Arena Sport 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%201.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png", Arena Sport 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%202.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png", Arena Sport 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
-
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pi8ipf6.png", Eleven Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
 
@@ -423,15 +438,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/VGtk3wd.png", Digi Sport 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
-
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
 
@@ -450,6 +456,15 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%201.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
+
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/MiExJz2.png", Eurosport 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
 
@@ -461,21 +476,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIG
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTSERVER", Canal+ Premier League
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTSERVER", Astro Grandstand
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTSERVER", Astro Premier League
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTSERVER", Astro Premier League 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTSERVER", Astro Football
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="SPORTSERVER", Astro Cricket
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/FKIqWYs.png", TNT Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tnt%20sports%201.m3u8
@@ -498,30 +498,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dg6jBW4.jpg" group-title="SPORTSERVER", Optus Sport 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="SPORTSERVER", Bein Sports 1 ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -685,6 +661,34 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC News
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
+
+==================================================================================================================================================
+LIVE MATCH
+==================================================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 3
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 4
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 5
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 6
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 7
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="LIVE MATCH", Optus Sport 8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 ==================================================================================================================================================
 ENTERTAINMENT
@@ -1403,19 +1407,16 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #EXTINF:-1 group-title="NUSANTARA" tvg-id="denslifenstyle.id" tvg-logo="https://i.imgur.com/EB1gdAT.png", Dens Life & Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 http://210.210.155.35/x6bnqe/s/s65/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DENS_Life_n_Style
 
 #EXTINF:-1 group-title="NUSANTARA" tvg-id="densplay.id" tvg-logo="https://i.imgur.com/MCammJD.png", Dens Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 http://210.210.155.35/x6bnqe/s/s101/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DensPlay
 
 #EXTINF:-1 group-title="NUSANTARA" tvg-id="densfoodchannel.id" tvg-logo="https://i.imgur.com/IFdunTz.png", Dens Food Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
 http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Food_Channel_Trial-
 
 #EXTINF:-1 group-title="NUSANTARA" tvg-id="" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501324_tvchannels_v1.jpg", Dens Learning & Knowledge
@@ -1535,53 +1536,6 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/7XLzcNL/UGTV.png", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Jakarta
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Yogyakarta
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Aceh
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Bali
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Bengkulu
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Jambi
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Jawa Barat
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Jawa Tengah
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Jawa Timur
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Kalbar
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Kalsel
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Kaltim
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Kalteng
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Lampung
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Papua
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Riau
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sulsel Makasar
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sulteng Palu
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sulut Manado
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sulbar Majene
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sumatra Selatan
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sumatra Barat
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL9RW3LH/20230825-160006.png" group-title="LOCAL", TVRI Sumatra Utara
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 
 ==================================================================================================================================================
 DENS.TV
