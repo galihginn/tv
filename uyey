@@ -204,21 +204,21 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 SPORTS
 ==================================================================================================================================================
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS", Champions TV 1
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS", Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS", Champions TV 2
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS", Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.imgur.com/oit66Xs.jpeg" group-title="SPORTS", Champions TV 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS", Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -226,21 +226,21 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.imgur.com/G33PEpD.jpeg" group-title="SPORTS", Champions TV 5
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS", Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.imgur.com/WFkK6Fm.jpeg" group-title="SPORTS", Champions TV 6
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS", Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="PLTV.id" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="SPORTS", Premier League TV
+#EXTINF:-1 tvg-id="Premier League TV.id" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-768x322.png" group-title="SPORTS", Premier League TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -354,22 +354,22 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 SPORTSERVER
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
