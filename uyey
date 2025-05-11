@@ -417,6 +417,24 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo_v3.png?1737622697", Arena Sport 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/arena%20sport%203.m3u8
 
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 4
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174084.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 5
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174085.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 6
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174086.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174087.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174088.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 9
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/174089.m3u8
+
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
