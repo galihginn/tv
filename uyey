@@ -255,6 +255,20 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/BZLDsHB9/spotv.png", SPOTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/8zDrh3QN/spotv2.png", SPOTV 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/W3QdtYwR/sstars.png", Sportstars
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -283,20 +297,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/BZLDsHB9/spotv.png", SPOTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=119&type=drm
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/8zDrh3QN/spotv2.png", SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=120&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="tvrisport" tvg-name="tvrisport" tvg-chno="tvrisport" tvg-logo="https://i.imgur.com/B6dgayf.png" group-title="SPORTS", TVRI Sport
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -366,9 +366,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premie
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTSERVER", Astro Premier League 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
 
-#EXTINF: -1 tvg-logo="https://ms.m.wikipedia.org/wiki/Astro_Badminton#/media/Fail%3AAstro_Badminton_(2024).png" group-title="SPORTSERVER", Astro Badminton
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20badminton.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTSERVER", Astro Cricket
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
 
@@ -417,9 +414,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1%202.m3u8
-
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pi8ipf6.png", Eleven Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
 
@@ -458,6 +452,33 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTSERVER", Sky Sports Premier League UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTSERVER", Sky Sports Football UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTSERVER", Sky Sports Main Event UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/00zrfW6.png", Sky Sports Mix UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTSERVER", Sky Sports News UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/4pZvA72.png", Sky Sports Golf UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pS2VzGN.png", Sky Sports Tennis UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/y7tUMQH.png", Sky Sports F1 UK
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/Pd7QkBn.png", Sky Sport F1 DE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%201.m3u8
@@ -589,54 +610,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/rmswJVo.png", Bein Sports Xtra 1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/rmswJVo.png", Bein Sports Xtra 1
-https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTSERVER", Sky Sports Main Event UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTSERVER", Sky Sports Main Event UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTSERVER", Sky Sports Premier League UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTSERVER", Sky Sports Premier League UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportspl%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTSERVER", Sky Sports Football UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTSERVER", Sky Sports Football UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rxJRjur.png" group-title="SPORTSERVER", Sky Sports News UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20NEWS.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8oGeR0.png" group-title="SPORTSERVER", Sky Sports Arena UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20arena.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/4pZvA72.png", Sky Sports Golf UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20GOLF.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/00zrfW6.png", Sky Sports Mix UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20MIX.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pS2VzGN.png", Sky Sports Tennis UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SKY%20SPORTS%20TENNIS.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/y7tUMQH.png", Sky Sports F1 UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/y7tUMQH.png", Sky Sports F1 UK
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_2.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/Pd7QkBn.png", Sky Sport F1 DE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/Pd7QkBn.png", Sky Sport F1 DE
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de%202.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTSERVER", Dubai Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
