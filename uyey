@@ -582,6 +582,36 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1.m3
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/Pd7QkBn.png", Sky Sport F1 DE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsf1_de.m3u8
 
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport1nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 2 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport2nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 3 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport3nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 4 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport4nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 5 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport5nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 6 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport6nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 7 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport7nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Premier League NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport8nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 9 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport9nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Select NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportselectnz.m3u8
+
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television-thumbnail.png", Supersport Football
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/supersport%20football.m3u8
 
