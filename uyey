@@ -204,6 +204,21 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 SPORTS
 ==================================================================================================================================================
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", Astro Grandstand
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTS", Astro Football
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS", Astro Premier League 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTS", Astro Cricket
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS", Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -384,21 +399,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 SPORTSERVER
 ==================================================================================================================================================
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTSERVER", Astro Grandstand
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTSERVER", Astro Football
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTSERVER", Astro Premier League
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTSERVER", Astro Premier League 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTSERVER", Astro Cricket
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo_v2.png?1737118885" group-title="SPORTSERVER", Arena Premium 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium1.m3u8
 
@@ -438,44 +438,56 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport9.m3u8
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_10_RS_logo.png?1665139118", Arena Sport 10
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="" group-title="SPORTSERVER", Arena Premium 1 BiH
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_BiH_BA_logo_v2.png?1736503259" group-title="SPORTSERVER", Arena Premium 1 BiH
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium1bih.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 2" tvg-logo="" group-title="SPORTSERVER", Arena Premium 2 BiH
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_BiH_BA_logo_v2.png?1736503392" group-title="SPORTSERVER", Arena Premium 2 BiH
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium2bih.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 3" tvg-logo="" group-title="SPORTSERVER", Arena Premium 3 BiH
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_Premium_BiH_BA_logo_v2.png?1736503529" group-title="SPORTSERVER", Arena Premium 3 BiH
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium3bih.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png?1737563804", Arena Sport 1 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport1.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport1hr.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo_v3.png?1737622079", Arena Sport 2 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport2.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport2hr.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo_v3.png?1737622697", Arena Sport 3 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport3.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport3hr.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo_v3.png?1737623932", Arena Sport 4 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport4.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport4hr.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo_v2.png?1738315820", Arena Sport 5 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport5.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport5hr.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 6 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport6.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo_v2.png?1738760932", Arena Sport 6 HR
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport6hr.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 7 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport7.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png?1632227644", Arena Sport 7 HR
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport7hr.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 8 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport8.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo_v2.png?1745320502", Arena Sport 8 HR
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport8hr.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 9 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport9.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png?1632227685", Arena Sport 9 HR
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport9hr.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="", Arena Sport 10 HR
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport10.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png?1632228166", Arena Sport 10 HR
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport10hr.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_SI_logo.png?1665139168" group-title="SPORTSERVER", Arena Premium 1 SL
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremiumsl.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_SI_logo_v2.png?1737133569", Arena Sport 1 SL
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport1sl.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_SI_logo_v2.png?1737133587", Arena Sport 2 SL
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport2sl.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_SI_logo_v2.png?1737133593", Arena Sport 3 SL
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenasport3sl.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
