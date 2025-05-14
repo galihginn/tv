@@ -1,5 +1,8 @@
-#EXTM3U tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml", refresh="1440" max-conn="1" refresh="24"
-x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://epg.kampung.xyz/IPTV.xml, http://iptvtree.net:8080/xmltv.php?username=test_acct&password=ohbo1veifa4AhD, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://assets.livednow.com/epg.xml, https://epg.v1.mk/fy.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml"  refresh="3600"
+#EXTM3U
+x-tvg-url="https://open-epg.com/files/indonesia4.xml" refresh="3600"
+x-tvg-url="https://open-epg.com/files/singapore1.xml" refresh="3600"
+x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
+x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="3600"
 
 ==================================================================================================================================================
 MOVIES
@@ -717,9 +720,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar8.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTSERVER", Bein Sports 9
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar9.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/rmswJVo.png", Bein Sports Xtra 1
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTSERVER", Dubai Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
