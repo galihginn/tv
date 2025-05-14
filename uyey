@@ -780,9 +780,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 ENTERTAINMENT
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="gem.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png", GEM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg", K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -808,15 +805,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash/tvN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", NaDoo Korean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692758975_tvchannels_v1.jpg", NaDoo Commerce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.35/uq2663/h/h126/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDoo_Commerce
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&userid=jjj&chname=NaDoo_Commerce
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg", Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Lifetime/sa_dash/Lifetime.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Asian Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
@@ -827,63 +819,20 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg", Lifetime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Lifetime/sa_dash/Lifetime.mpd
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id=techstorm.id" tvg-logo="https://i.postimg.cc/WzHn678d/techstorm.png", Tech Storm
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="eentertainment.us" tvg-name="US: E! ENTERTAINMENT (EAST) HD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyvbpKGgpNMPQqUA8EikqXkEmGSvUlH6jjzmdu_fC6mzx.png", E! Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium315/index.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Global
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/6u4tZn6.png", Fashion TV Asia
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/vQuyyWO.png", Fashion TV UHD
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/4unUuGy.png", World Fashion Channel
-https://live-3.otcnet.ru/wfcenmulti/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ABCNetwork.us" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc@3x.png", ABC Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium51/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", ABC Australia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="BBCLifestyleAsia.uk" tvg-name="BBC Lifestyle" ch-number="717" tvg-logo="https://weareratchet.com/web/wp-content/uploads/2019/04/10.-BBC-Lifestyle.png", BBC Lifestyle
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
-https://tinyurl.com/e3m4v4ec/dash-wv/linear/5050/default_primary.mpd
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png", Hits Now
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Rai Italia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", TV5 Monde Asie
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png", Arirang
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", ABN News
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="cjenm.kr" tvg-logo="https://i.imgur.com/ZxfJhJF.png", CJ E&M
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
@@ -917,34 +866,9 @@ http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbsstory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/640px-KBS_Story.svg.png", KBS Story
 http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="mbctv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/640px-Munhwa_Broadcasting_Company.svg.png", MBC TV
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png", Mnet Korean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://everylive.online/live/mnet/livestream.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", NBS
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", NHTV
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="sbstv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/640px-Seoul_Broadcasting_System_logo.svg.png", SBS TV
-https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="Kpoptv.KR" tvg-name="KPOPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBztGbjCkUkc2c_uLkR9XeUlM0gaf-M_6Khg&usqp=CAU", The Kpop By SBS
-https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", TBS
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-
 ==================================================================================================================================================
 KNOWLEDGE
 ==================================================================================================================================================
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg", BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -960,6 +884,30 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU", Global Trekker
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png", History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/History/sa_dash/History.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png", Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png", Outdoor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoChannel/sa_dash/NatGeoChannel.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="", Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u
@@ -981,32 +929,11 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="discoveryturbouk.uk" tvg-logo="https://i.imgur.com/9sYeQuS.png", Discovery Turbo
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" xui-id="{XUI_ID}" tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Discovery_Family.svg/revision/latest/scale-to-width-down/250?cb=20161227012456", Discovery Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium657/index.m3u8
-
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png", Dmax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU", Global Trekker
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png", History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/History/sa_dash/History.mpd
-
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png", History 2
 http://187.95.95.247/h2/index.m3u8 
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png", Love Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoWild/sa_dash/NatGeoWild.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -1030,11 +957,6 @@ https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeoca.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="563", National Geographic UK
 https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png", Outdoor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NatGeoChannel/sa_dash/NatGeoChannel.mpd
-
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -1051,30 +973,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 KIDS
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title="KIDS" tvg-id="biznetkids" tvg-logo="https://iptv.urfan.web.id/logo/bkids.png", Biznet Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg", Indi Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
 #EXTINF:-1 group-title="KIDS" tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
-
-#EXTINF:-1 group-title="KIDS" tvg-id="BoomerangAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png", Boomerang
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="", Cartoonito
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="", Cartoon Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="cbeebiesasia.uk" tvg-logo="https://i.imgur.com/43JFpOk.png", CBeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1086,15 +988,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-id="duniaanak.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png", Dunia Anak
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="", Hooree
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
-
 #EXTINF:-1 group-title="KIDS" tvg-id="kidstv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png", Kids TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1105,8 +998,37 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash/KidsChannel.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-id="BoomerangAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png", Boomerang
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-id="duniaanak.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png", Dunia Anak
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-id="biznetkids" tvg-logo="https://iptv.urfan.web.id/logo/bkids.png", Biznet Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-id="IndiKids.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg", Indi Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-id="moonbugkids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png", Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="", Cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="", Cartoon Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="", Hooree
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="", Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
@@ -1121,19 +1043,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-sa
 NEWS
 ==================================================================================================================================================
 
-#EXTINF:-1, group-title="NEWS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png", ABC News US
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1, group-title="NEWS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ABC_News_%282017%29.svg/2560px-ABC_News_%282017%29.svg.png", ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png", Al Jazeera English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png", Al Jazeera Live
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg", BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1144,9 +1057,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCWorldNews/sa_dash/BBCWorldNews.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Bloomberg/sa_dash/Bloomberg.mpd
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png", CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1162,9 +1072,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash/CGTN.mpd
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_big.png", CNN International
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_357.png", DW News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1201,39 +1108,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash/NHKWorldPr
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="", Sky News
-http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
-
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_world_tr.png", TRT World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png", VOA
-https://iptv.febianmart.com/play.m3u8?id=voa
-
-==================================================================================================================================================
-RELIGIOUS
-==================================================================================================================================================
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png", Al Qur'an Kareem
-https://iptv.febianmart.com/play.m3u8?id=qurantv
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" Tawaf TV
-https://iptv.febianmart.com/play.m3u8?id=tawaftv
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-id="Saudi Sunnah TV" tvg-name="Saudi Sunnah TV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png", Saudi Sunnah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-id="AjwaTV.id" tvg-name="Ajwa TV" ch-id="7464"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Ajwa_TV.png", Ajwa TV
-https://iptvme.xyz:443/vid/hls.m3u8?id=7464
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png", MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-#EXTINF:-1 group-title="RELIGIOUS" tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png", Rodja TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch26.m3u8
 
 ==================================================================================================================================================
 NASIONAL
@@ -1376,6 +1254,9 @@ https://rrinet.rri.co.id/hls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@GPRTVKominfo
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-id="tvrinasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png", TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -1490,40 +1371,10 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 group-title="NUSANTARA" tvg-id="biznetlifestyle.id" tvg-logo="https://i.imgur.com/XqUfQKA.png", Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
-#EXTINF:-1 group-title="NUSANTARA" tvg-id="denslifenstyle.id" tvg-logo="https://i.imgur.com/EB1gdAT.png", Dens Life & Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://210.210.155.35/x6bnqe/s/s65/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DENS_Life_n_Style
-
-#EXTINF:-1 group-title="NUSANTARA" tvg-id="densplay.id" tvg-logo="https://i.imgur.com/MCammJD.png", Dens Play
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://210.210.155.35/x6bnqe/s/s101/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=DensPlay
-
-#EXTINF:-1 group-title="NUSANTARA" tvg-id="densfoodchannel.id" tvg-logo="https://i.imgur.com/IFdunTz.png", Dens Food Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Food_Channel_Trial-
-
-#EXTINF:-1 group-title="NUSANTARA" tvg-id="" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501324_tvchannels_v1.jpg", Dens Learning & Knowledge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://210.210.155.35/x6bnqe/s/s36/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
-
-#EXTINF:-1 group-title="NUSANTARA" tvg-id="densshowbiz.id" tvg-logo="https://i.imgur.com/DYrZwUQ.png", Dens ShowBiz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://rr3.dens.tv/s/s35/index.m3u8
-
 #EXTINF:-1 group-title="NUSANTARA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png", Besmart
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BeSmart/sa_dash/BeSmart.mpd
-
-#EXTINF:-1 group-title="NUSANTARA" tvg-id="linguachannel.id" tvg-logo="https://www.transvision.co.id/img/channel/lingua.png", Lingua Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 #EXTINF:-1 group-title="NUSANTARA" tvg-id="dunialain.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png", Dunia Lain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
