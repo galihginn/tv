@@ -208,16 +208,31 @@ SPORTS
 ==================================================================================================================================================
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", Astro Grandstand
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTS", Astro Football
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrograndstand.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl1.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS", Astro Premier League 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl2.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTS", Astro Football
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrofootball.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS", Astro Arena
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="SPORTS", Astro Arena 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena2.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png" group-title="SPORTS", Astro Badminton
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrobadminton.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png" group-title="SPORTS", Astro Badminton 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrobadminton2.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png" group-title="SPORTS", Astro Sport Plus
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrosportplus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTS", Astro Cricket
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
@@ -402,6 +417,75 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 SPORTSERVER
 ==================================================================================================================================================
 
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Football
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsfootball.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Premier League
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsepl.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Main Event
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsevent.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Mix
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsmix.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Plus
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsplus.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Action
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsaction.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Arena
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsarena.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Cricket
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportscricket.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Golf
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsgolf.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Tennis
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportstennis.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports F1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsf1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Racing
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsracing.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports News
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsnews.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport1nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 2 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport2nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 3 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport3nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 4 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport4nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 5 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport5nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 6 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport6nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 7 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport7nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Premier League NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport8nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 9 NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport9nz.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Select NZ
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportselectnz.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo_v2.png?1737118885" group-title="SPORTSERVER", Arena Premium 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium1.m3u8
 
@@ -557,75 +641,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Football
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsfootball.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Premier League
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsepl.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Main Event
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsevent.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Mix
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsmix.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Plus
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsplus.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Action
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsaction.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Arena
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsarena.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Cricket
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportscricket.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Golf
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsgolf.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Tennis
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportstennis.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports F1
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsf1.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Racing
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsracing.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports News
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsnews.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport1nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 2 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport2nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 3 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport3nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 4 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport4nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 5 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport5nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 6 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport6nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 7 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport7nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Premier League NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport8nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 9 NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport9nz.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Select NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportselectnz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%201.m3u8
