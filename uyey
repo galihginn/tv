@@ -1,4 +1,5 @@
 #EXTM3U
+x-tvg-url="https://www.open-epg.com/generate/9rnytFS9WM.xml" refresh="3600"
 x-tvg-url="https://open-epg.com/files/indonesia4.xml" refresh="3600"
 x-tvg-url="https://open-epg.com/files/singapore1.xml" refresh="3600"
 x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
@@ -207,32 +208,35 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 SPORTS
 ==================================================================================================================================================
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", Astro Grandstand
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrograndstand.m3u8
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl1.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS", Astro Premier League 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl2.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League 4
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl3.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League 5
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl4.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTS", Astro Football
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrofootball.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png" group-title="SPORTS", Astro Badminton
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrobadminton.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", Astro Grandstand
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrograndstand.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png" group-title="SPORTS", Astro Sport Plus
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrosportplus.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS", Astro Arena
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="SPORTS", Astro Arena 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena2.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png" group-title="SPORTS", Astro Badminton
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrobadminton.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Astro_Badminton_%282024%29.png" group-title="SPORTS", Astro Badminton 2
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrobadminton2.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png" group-title="SPORTS", Astro Sport Plus
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrosportplus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTS", Astro Cricket
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
