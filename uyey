@@ -327,7 +327,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=114
+#KODIPROP:inputstream.adaptive.license_key=http://ottoprie.serv00.net/vision/multi_drm.php?id=114&type=drm&token=g9tZfKv8HA
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/GtGHDPX4/sstars4.png", Sportstars 4
@@ -533,7 +533,7 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport8nz.m3u8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport9nz.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport Select NZ
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportselectnz.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysport0selectnz.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: Arena Premium 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo_v2.png?1737118885" group-title="SPORTSERVER", Arena Premium 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenapremium1.m3u8
