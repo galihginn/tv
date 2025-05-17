@@ -214,10 +214,10 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl1.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS", Astro Premier League 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl2.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League 4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League 3
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl3.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League 5
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS", Astro Premier League 4
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl4.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="SPORTS", Astro Football
@@ -229,8 +229,11 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrobadminton.m3u
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png" group-title="SPORTS", Astro Grandstand
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrograndstand.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png" group-title="SPORTS", Astro Sport Plus
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrosportplus.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png" group-title="SPORTS", Astro Sports Plus
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrosportsplus.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS", Astro Sports UHD
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astrosportsuhd.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS", Astro Arena
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena.m3u8
