@@ -841,57 +841,75 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls4.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls5.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls6.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls7.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls8.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls9.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls10.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls11.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls12.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls13.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls14.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls15.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls16.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls17.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="[ LIVE MATCH ]", MLS 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls18.m3u8
 
 ==================================================================================================================================================
