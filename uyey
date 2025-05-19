@@ -2941,7 +2941,7 @@ ALTERNATIVE
 
 #EXTINF:-1 group-title="ALT" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
+http://mantul.biz.id:8888/live/00nud58/250425/1029.m3u8
 
 #EXTINF:-1 group-title="ALT" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=EXOplay533
