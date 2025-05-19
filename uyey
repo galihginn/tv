@@ -2935,5 +2935,44 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b23
 #EXTINF:0 tvg-id="ID" tvg-name="Fight TV Premium" ch-number="914" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ae271994c8f/40eedd61d70d423eb2d92d23ca0b2b8d.jpg" group-title="TRANSCORP",Fight TV Premium
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
+=====================================================================================================
+ALTERNATIVE
+=====================================================================================================
+
+#EXTINF:-1 group-title="ALT" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax_2.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/4NvrYrk3/glxy.png", Galaxy
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy2.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/ZntMRLw3/glxp.png", Galaxy Premium
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium2.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/wjGFMVvv/hits.png", Hits
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HITS2.m3u8
+
+#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/D0v1BJZH/hitm.png", Hits Movies
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.m3u8
 
 #EXTM3U billed-msg="uyey™ TV | Tidak diperjualbelikan, hanya penyusunan ulang playlist"
