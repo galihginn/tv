@@ -203,10 +203,6 @@ http://202.147.193.244/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovie
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png", MaxStream
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="MOVIES", Apple TV+ (test)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/apple.m3u8
-
 
 ==================================================================================================================================================
 SPORTS
@@ -3058,5 +3054,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HITS2.m3u8
 #EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/D0v1BJZH/hitm.png", Hits Movies
 #EXTVLCOPT:http-user-agent=EXOplay533
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ALT", Russkaya Noch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_russkayanoch.m3u8
+
+#EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="ALT", Apple TV+ (test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/apple.m3u8
+
 
 #EXTM3U billed-msg="uyey™ TV | Tidak diperjualbelikan, hanya penyusunan ulang playlist"
