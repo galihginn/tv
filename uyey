@@ -996,6 +996,11 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio6.m3u8
 #EXTINF:-1 group-title="< LIVE MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 7 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio7.m3u8
 
+#EXTINF:-1 tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="< LIVE MATCH >", TNT Sports 1 (direct)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 EXOplay533
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401605115.m3u8
+
 ==================================================================================================================================================
 ENTERTAINMENT
 ==================================================================================================================================================
@@ -3058,6 +3063,17 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.
 #EXTINF:-1 tvg-logo="" group-title="ALT", Russkaya Noch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_russkayanoch.m3u8
+
+https://vs8.cdn.tvime.ru/Playboy_TV/tracks-v1a1/mono.m3u8
+
+ox-ax
+https://s.oxax.tv/D2HPhz0Xla9s9UZtCAoeeg/1/1747860900/index.m3u8
+
+babes tv
+https://s.oxax.tv/arIii6mchkyvSWcSBAbofg/14/1747861127/index.m3u8
+
+fap tv teens
+https://s.oxax.tv/RlRNcWDo-XgzR6Bcf062dQ/36/1747861258/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="ALT", Apple TV+ (test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
