@@ -3069,16 +3069,21 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_russkayanoch.m3u8
 
-https://vs8.cdn.tvime.ru/Playboy_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALT", Playboy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_playboy.m3u8
 
-ox-ax
-https://s.oxax.tv/D2HPhz0Xla9s9UZtCAoeeg/1/1747860900/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALT", Babes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_babesm3u8
 
-babes tv
-https://s.oxax.tv/arIii6mchkyvSWcSBAbofg/14/1747861127/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALT", PAF Teens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_fapteens.m3u8
 
-fap tv teens
-https://s.oxax.tv/RlRNcWDo-XgzR6Bcf062dQ/36/1747861258/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALT", Ox Ax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_oxax.m3u8
 
 #EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="ALT", Apple TV+ (test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
