@@ -888,163 +888,163 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
 
 ==================================================================================================================================================
--LIVE_MATCH-
+< LIVE_MATCH >
 ==================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 7
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="-LIVE_MATCH-", Optus Sport 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="< LIVE_MATCH >", Optus Sport 8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 1
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 2
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 3
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls3.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 4
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls4.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 5
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls5.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 6
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls6.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 7
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls7.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 8
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls8.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 9
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls9.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 10
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls10.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 11
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls11.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 12
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls12.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 13
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls13.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 14
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls14.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 15
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls15.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 16
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls16.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 17
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls17.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="-LIVE_MATCH-", MLS 18
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title="< LIVE_MATCH >", MLS 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls18.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 1 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 1 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio1.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 2 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 2 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio2.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 3 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 3 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio3.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 4 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 4 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio4.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 5 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 5 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio5.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 6 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 6 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio6.m3u8
 
-#EXTINF:-1 group-title="-LIVE_MATCH-" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 7 IT
+#EXTINF:-1 group-title="< LIVE_MATCH >" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png", Sky Sport Calcio 7 IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 1
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 2
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 3
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 4
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 5
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 6
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 7
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 8
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 9
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="-LIVE_MATCH-", Setanta Sports 10
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="< LIVE_MATCH >", Setanta Sports 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta10.m3u8
 
