@@ -3068,6 +3068,39 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b23
 #EXTINF:0 tvg-id="ID" tvg-name="Fight TV Premium" ch-number="914" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ae271994c8f/40eedd61d70d423eb2d92d23ca0b2b8d.jpg" group-title="TRANSCORP",Fight TV Premium
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
+
+=====================================================================================================
+TRIPLEX
+=====================================================================================================
+
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-russkaya-noch.png" group-title="TRIPLEX", Russkaya Noch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_russkayanoch.m3u8
+
+#EXTINF:-1 tvg-logo="https://shalun.tv/wp-content/themes/simpla/img/logo-footer.png" group-title="TRIPLEX", Shalun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_shalun.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/french-lover.png" group-title="TRIPLEX", French Lovers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_frenchlovers.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2024/08/playboy-logo_brandlogos.net_d1391.png" group-title="TRIPLEX", Playboy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_playboy.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Blue_hustler.png" group-title="TRIPLEX", Blue Hustler
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_bluehustler.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/red-lips-ru.png" group-title="TRIPLEX", Red Lips
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_redlips.m3u8
+
+#EXTINF:-1 tvg-logo="https://secretcircle.com/sc_logo_trans.png" group-title="TRIPLEX", Secret Circle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_secretcircle.m3u8
+
 =====================================================================================================
 ALTERNATIVE
 =====================================================================================================
@@ -3107,34 +3140,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HITS2.m3u8
 #EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/D0v1BJZH/hitm.png", Hits Movies
 #EXTVLCOPT:http-user-agent=EXOplay533
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", Russkaya Noch
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_russkayanoch.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", Shalun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_shalun.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", French Lovers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_frenchlovers.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", Playboy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_playboy.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", Blue Hustler
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_bluehustler.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", Red Lips
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_redlips.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ALT", Secret Circle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_secretcircle.m3u8
 
 #EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="ALT", Apple TV+ (test)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
