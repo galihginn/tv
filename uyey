@@ -176,6 +176,51 @@ http://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png", Indonesia Movie Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="bioskopindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="MOVIES", Flik
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png", MaxStream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="Dunia Sinema HD" tvg-name="Dunia Sinema HD" tvg-logo="https://i.postimg.cc/XqBwckyb/dunia-sinema.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="citrabioskop.id" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="MOVIES", Citra Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="Citra Drama (HD)" tvg-logo="https://iili.io/Jmnpwy7.png" group-title="MOVIES", Citra Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+
+#EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-name="Citra Entertainment" tvg-logo="https://iili.io/2MIQIj4.png" group-title="MOVIES", Citra Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://iili.io/JZInBLX.png" group-title="MOVIES", Vision Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
+
 #EXTINF:-1 group-title="MOVIES" tvg-id="animaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -185,24 +230,6 @@ http://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="bioskopindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="Dunia Sinema HD" tvg-name="Dunia Sinema HD" tvg-logo="https://i.postimg.cc/XqBwckyb/dunia-sinema.png" group-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png", Indonesia Movie Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-http://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png", MaxStream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
 
 ==================================================================================================================================================
 SPORTS
@@ -385,13 +412,22 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS", NBA TV
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS", Sports TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS", Unifi Sports
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/XsDyNYM/cbd69886-bb5-removebg-preview-modified.png", Fight Sports
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="SPORTS", NBA TV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
+#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS", UFC Fight Pass
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS", WWE Network
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
@@ -399,17 +435,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS", Impact Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS", UFC Fight Pass
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pj6zyon.png", Strongman Champions League
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS", Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS", Unifi Sports
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sc9kDp4.jpeg" group-title="SPORTS", W Sports
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -448,9 +475,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsplus.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Action
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsaction.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Arena
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportsarena.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://e0.365dm.com/skysports/primary_logo.png", Sky Sports Cricket
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skysportscricket.m3u8
@@ -1076,66 +1100,61 @@ http://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbsworld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png", KBS World
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World
+
+#EXTINF:-1 tvg-id="KBS Korea" tvg-name="KBS Korea" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1714465946_tvchannels_v1.jpg" group-title="ENTERTAINMENT", KBS Korea
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=KBS_Korea
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png", Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg", Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash/Lifetime.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Asian Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png", HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id=techstorm.id" tvg-logo="https://i.postimg.cc/WzHn678d/techstorm.png", Tech Storm
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Global
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Midnite
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="fashionhd" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Midnight
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/25ZdL432/Arirang.png", Arirang
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="cjenm.kr" tvg-logo="https://i.imgur.com/ZxfJhJF.png", CJ E&M
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ebs1tv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png", EBS 1
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="ebs2tv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png", EBS 2
-https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="jtbc.kr" tvg-logo="https://0nline.tv/wp-content/uploads/2020/03/jtbc-1-1024x525.png", JTBC Korean
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://everylive.online/live/jtbc/livestream.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Tf0vweF.png", K-Pop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbsworld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/640px-KBS_World_%282009%29.svg.png", KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-https://ctrl.laotv.la/live/KBS/index.m3u8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbsdrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/640px-KBS_DRAMA.svg.png", KBS Drama
-http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbsjoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/640px-KBS_JOY.svg.png", KBS Joy
-http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbslife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/640px-KBS_Life.svg.png", KBS Life
-http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kbsstory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/640px-KBS_Story.svg.png", KBS Story
-http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
 
 ==================================================================================================================================================
 KNOWLEDGE
@@ -3065,7 +3084,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6857fe540a1018060b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:0 tvg-id="ID" tvg-name="Fight TV Premium" ch-number="914" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ae271994c8f/40eedd61d70d423eb2d92d23ca0b2b8d.jpg" group-title="TRANSCORP",Fight TV Premium
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
-
 
 =====================================================================================================
 TRIPLEX
