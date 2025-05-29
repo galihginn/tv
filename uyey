@@ -959,11 +959,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricke
 < LIVE_MATCH >
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title=" > LIVE MATCH < " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN INFO
+#EXTINF:-1 group-title=" > LIVE MATCH < " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1NFO
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn0.m3u8
-
-#EXTINF:-1 group-title=" > LIVE MATCH < " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn1.m3u8
 
 #EXTINF:-1 group-title=" > LIVE MATCH < " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn2.m3u8
