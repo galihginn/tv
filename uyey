@@ -702,32 +702,74 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenaesport.m3u8
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo_v2.png?1730120062", Arena Fight
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/arenafight.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 4
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 5
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 6
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 ES
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznes1.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2 ES
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznes2.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daznf1.m3u8
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3 ES
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznes3.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 4 ES
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznes4.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN LaLiga 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznesll1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN LaLiga 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznesll2.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN F1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznesf1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 DE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznde1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2 DE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznde2.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Fast
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazndefast.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Rise
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznderise.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 BE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2 BE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe2.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3 BE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe3.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Pro League 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbepro1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Pro League 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbepro2.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Pro League 3
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbepro3.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pi8ipf6.png", Eleven Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
