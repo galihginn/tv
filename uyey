@@ -3284,6 +3284,10 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_penthousegold.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_hustler.m3u8
 
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-teens.png" group-title="TRIPLEX", Fap Teens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/x_fapteens.m3u8
+
 =====================================================================================================
 ALTERNATIVE
 =====================================================================================================
