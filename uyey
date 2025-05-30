@@ -1020,28 +1020,37 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn19.m3u8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn20.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%201.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%202.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%203.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%204.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%205.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%206.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 7
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%207.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 8
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/optus%20sport%208.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 9
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 10
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title=" > LIVE MATCH < ", Optus Sport 11
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1082,6 +1091,46 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta9.m3u8
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta10.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta12.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta13.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta14.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta15.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta16.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta17.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta18.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta19.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title=" > LIVE MATCH < ", Setanta Sports 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta20.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/upload/v1736288054/assets/crest/MLS_CREST_1C_RGB_WHI_NO_BKGD_68x68_1_2_rwknik.png" group-title=" > LIVE MATCH < ", MLS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 EXOplay533
