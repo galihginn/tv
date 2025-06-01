@@ -51,12 +51,12 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/4NvrYrk3/glxy.png", Galaxy
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png", Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/ZntMRLw3/glxp.png", Galaxy Premium
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png", Galaxy Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
@@ -85,7 +85,7 @@ http://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_640_360.png", Warner TV
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/330px-Warner2018LA.png", Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
@@ -108,47 +108,47 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd  
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png", CINEEDGE - Cinemachi Action
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png", CINEEDGE - Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png", SUPERRIX - Cinemachi Max
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png", SUPERRIX - Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png", UNIQUES - Cinemachi Xtra
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png", UNIQUES - Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png", BUDDYSTAR - Cinemachi Kids
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png", BUDDYSTAR - Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/prCJHQ4P/mcn.png", My Cinema
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://jadwaltv.co/api/images/channel-PM7NKCH2OJO0ZO2wgcl4SAB1LViuY9s0-md.png", My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/GtdxVgMM/mca.png", My Cinema Asia
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://jadwaltv.co/api/images/channel-BZOT7BWDjBAC5NzpqkZ3M2hVzErIC28D-md.png", My Cinema Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/NGk4mYMZ/mfc.png", My Family
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://jadwaltv.co/api/images/channel-DY2Z7Ygzy5hKjB8Kjk2pcU6MchXsaXmS-md.png", My Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/9QFNr0Yx/mkdz.png", My Kidz
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://jadwaltv.co/api/images/channel-Dste8rODeAjeQXj1mqPgPCSRdDhCzQ2F-md.png", My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/DwjpshC7/mce.png", My Cinema Europe
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://mytvbroadcasting.my/wp-content/uploads/2024/02/Logo_MCE.png", My Cinema Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
@@ -184,14 +184,14 @@ http://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaM
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png", MaxStream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 tvg-id="citrabioskop.id" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="MOVIES", Citra Bioskop
+#EXTINF:-1 tvg-id="citrabioskop.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Citra_Bioskop.png/1598px-Logo_Citra_Bioskop.png" group-title="MOVIES", Citra Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://maxstream.tv/static/images/b88ead4dc60fa63fad6ab775ee8a035a.png", MaxStream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="animaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/640px-Animax.svg.png", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -794,22 +794,22 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio7.m3u8
 DAZN GROUP
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 1
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 2
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 3
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 3
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 4
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 5
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Eleven 6
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 6
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 Bar DE
@@ -875,67 +875,67 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbepro2.m3u8
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Pro League 3
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbepro3.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 1 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn1.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 2 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn2.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 3 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn3.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 4 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 4 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn4.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 5 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 5 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn5.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 6 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 6 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn6.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 7 UK
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 7 UK
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn7.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 8
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn8.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 9
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 9
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn9.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 10
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 10
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn10.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 11
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 11
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn11.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 12
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 12
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn12.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 13
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 13
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn13.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 14
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 14
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn14.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 15
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 15
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn15.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 16
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 16
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn16.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 17
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 17
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn17.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 18
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 18
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn18.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 19
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 19
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn19.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 20
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN 20
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn20.m3u8
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN INFO
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://pbs.twimg.com/profile_images/1414607045005819907/e_xGJICL.jpg", DAZN INFO
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/dazn0.m3u8
 
 ==================================================================================================================================================
