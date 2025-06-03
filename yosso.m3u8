@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+https://vod.stb.tvime.ru/Yosso_TV_Sexy/tracks-v1a1/mono.m3u8
