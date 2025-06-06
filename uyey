@@ -492,6 +492,7 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowprime.m3u8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 EXOplay533
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
