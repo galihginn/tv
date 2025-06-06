@@ -485,6 +485,57 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/premiersports1.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 EXOplay533
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/premiersports2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Prime
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowprime.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Plus
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 3
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 4
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 5
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 6
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 7
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now7.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV +
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv+.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv1.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv2.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 3
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv3.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 4
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv4.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 5
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv5.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 6
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv6.m3u8
+
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 7
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv7.m3u8
+
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pi8ipf6.png", Eleven Sports 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
 
@@ -505,33 +556,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%2
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/VGtk3wd.png", Digi Sport 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%201.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%202.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%203.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%204.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%205.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/wYhaEtS.png", Sport TV 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SPORT%20TV%206.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%201.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/now%20sports%203.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/MiExJz2.png", Eurosport 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
@@ -1174,6 +1198,24 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="+ LIVE MATCH", Optus Sport 11
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="+ LIVE MATCH", Now Sports 1 Premier
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowpl1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="+ LIVE MATCH", Now Sports 2 Premier
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowpl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="+ LIVE MATCH", Now Sports 3 Premier
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowpl3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="+ LIVE MATCH", Now Sports 4 Premier
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowpl4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="+ LIVE MATCH", Now Sports 5 Premier
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowpl5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="+ LIVE MATCH", Now Sports 6 Premier
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowpl6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/commons/thumb/b/b5/Logo_boxed_yellow.png/500px-Logo_boxed_yellow.png?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="+ LIVE MATCH", Setanta Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3353,6 +3395,10 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/nuart.m3u8
 #EXTINF:-1 tvg-logo="https://profile-pics-cdn77.xvideos-cdn.com/feJwT-XJFoj_IWYiC5dGJw==,1748239830/videos/profiles/profthumb/7c/43/40/cum4k-1/profile_1_big.jpg" group-title="TRIPLEX", Cum4k *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/cum4k.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/5392.png" group-title="TRIPLEX", Yosso Sexy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/yosso.m3u8
 
 
 =====================================================================================================
