@@ -512,28 +512,28 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 7
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now7.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV +
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV +
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv+.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 1
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv1.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 2
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv2.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 3
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 3
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv3.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 4
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 4
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv4.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 5
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 5
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv5.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 6
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 6
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv6.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://www.sporttv.pt/sport-tv-institucional.svg", Sport TV 7
+#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 7
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv7.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pi8ipf6.png", Eleven Sports 1
