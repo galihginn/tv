@@ -1208,22 +1208,22 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinqa8.m3u8
 #EXTINF: -1 tvg-logo="https://beinsports.com.tr/image/layout/footer-logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 9 QA
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinqa9.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bein-sports-logo-black-and-white.png" group-title="🟣 BEIN SPORTS", Bein Sports 1 TR
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 1 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr1.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bein-sports-logo-black-and-white.png" group-title="🟣 BEIN SPORTS", Bein Sports 2 TR
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 2 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr2.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bein-sports-logo-black-and-white.png" group-title="🟣 BEIN SPORTS", Bein Sports 3 TR
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 3 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr3.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bein-sports-logo-black-and-white.png" group-title="🟣 BEIN SPORTS", Bein Sports 4 TR
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 4 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr4.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bein-sports-logo-black-and-white.png" group-title="🟣 BEIN SPORTS", Bein Sports 5 TR
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 5 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr5.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bein-sports-logo-black-and-white.png" group-title="🟣 BEIN SPORTS", Bein Sports Haber
+#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports Haber
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintrhaber.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="🟣 BEIN SPORTS", Bein Sports Max 1 TR
