@@ -1208,22 +1208,34 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinqa8.m3u8
 #EXTINF: -1 tvg-logo="https://beinsports.com.tr/image/layout/footer-logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 9 QA
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinqa9.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 1 TR
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_%28black%29.svg/1024px-BeIN_Sports_logo_2017_%28black%29.svg.png?20170101005751" group-title="🟣 BEIN SPORTS", Bein Sports AFC
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinafc.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_%28black%29.svg/1024px-BeIN_Sports_logo_2017_%28black%29.svg.png?20170101005751" group-title="🟣 BEIN SPORTS", Bein Sports AFC 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinafc1.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_%28black%29.svg/1024px-BeIN_Sports_logo_2017_%28black%29.svg.png?20170101005751" group-title="🟣 BEIN SPORTS", Bein Sports AFC 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinafc2.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_%28black%29.svg/1024px-BeIN_Sports_logo_2017_%28black%29.svg.png?20170101005751" group-title="🟣 BEIN SPORTS", Bein Sports AFC 3
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beinafc3.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 1 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr1.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 2 TR
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 2 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr2.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 3 TR
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 3 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr3.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 4 TR
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 4 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr4.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports 5 TR
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1600px-Bein_sport_logo.png" group-title="🟣 BEIN SPORTS", Bein Sports 5 TR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintr5.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="🟣 BEIN SPORTS", Bein Sports Haber
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png?20220224074056" group-title="🟣 BEIN SPORTS", Bein Sports Haber
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/beintrhaber.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="🟣 BEIN SPORTS", Bein Sports Max 1 TR
