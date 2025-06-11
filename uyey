@@ -5083,19 +5083,19 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
 
 #EXTINF:-1 group-title="ALT" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbo.m3u8
+http://content.qtv.my.id:1234/stream/astro/hbo/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
 #EXTINF:-1 group-title="ALT" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbofam.m3u8
+http://content.qtv.my.id:1234/stream/astro/hbofamily/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
 #EXTINF:-1 group-title="ALT" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbohits.m3u8
+http://content.qtv.my.id:1234/stream/astro/hbohits/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
 #EXTINF:-1 group-title="ALT" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
 #EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hbosig.m3u8
+http://content.qtv.my.id:1234/stream/astro/hbosignature/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
 
 #EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/4NvrYrk3/glxy.png", Galaxy
 #EXTVLCOPT:http-user-agent=EXOplay533
