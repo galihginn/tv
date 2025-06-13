@@ -203,6 +203,30 @@ http://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax (Alt)
+#EXTVLCOPT:http-user-agent=EXOplay533
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO (Alt)
+#EXTVLCOPT:http-user-agent=EXOplay533
+http://content.qtv.my.id:1234/stream/astro/hbo/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family (Alt)
+#EXTVLCOPT:http-user-agent=EXOplay533
+http://content.qtv.my.id:1234/stream/astro/hbofamily/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits (Alt)
+#EXTVLCOPT:http-user-agent=EXOplay533
+http://content.qtv.my.id:1234/stream/astro/hbohits/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature (Alt)
+#EXTVLCOPT:http-user-agent=EXOplay533
+http://content.qtv.my.id:1234/stream/astro/hbosignature/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+
+#EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="MOVIES", Apple TV+ (test)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/apple.m3u8
+
 ==================================================================================================================================================
 SPORTS
 ==================================================================================================================================================
@@ -500,33 +524,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/premiersports1.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 EXOplay533
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/premiersports2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Prime
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowprime.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Plus
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 3
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 4
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 5
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 6
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 7
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now7.m3u8
-
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV +
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv+.m3u8
 
@@ -656,6 +653,33 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTSERVER", Astro Cricket
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Prime
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowprime.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Plus
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 3
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 4
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 5
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 6
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports 7
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now7.m3u8
 
 ==================================================================================================================================================
 SKY GROUP
@@ -5074,47 +5098,7 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/cum4k.m3u8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/yosso.m3u8
 
 =====================================================================================================
-ALTERNATIVE
+-
 =====================================================================================================
-
-#EXTINF:-1 group-title="ALT" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/bv5MXPbm/cnmx.png", Cinemax
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cinemax.m3u8
-
-#EXTINF:-1 group-title="ALT" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/3wN6bNyy/hbo.png", HBO
-#EXTVLCOPT:http-user-agent=EXOplay533
-http://content.qtv.my.id:1234/stream/astro/hbo/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-
-#EXTINF:-1 group-title="ALT" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/y6cGGwNT/hbof.png", HBO Family
-#EXTVLCOPT:http-user-agent=EXOplay533
-http://content.qtv.my.id:1234/stream/astro/hbofamily/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-
-#EXTINF:-1 group-title="ALT" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/WbcBbsyK/hboh.png", HBO Hits
-#EXTVLCOPT:http-user-agent=EXOplay533
-http://content.qtv.my.id:1234/stream/astro/hbohits/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-
-#EXTINF:-1 group-title="ALT" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/kXypJKK6/hbos.png", HBO Signature
-#EXTVLCOPT:http-user-agent=EXOplay533
-http://content.qtv.my.id:1234/stream/astro/hbosignature/master.m3u8?u=admin&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
-
-#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/4NvrYrk3/glxy.png", Galaxy
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy2.m3u8
-
-#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/ZntMRLw3/glxp.png", Galaxy Premium
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium2.m3u8
-
-#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/wjGFMVvv/hits.png", Hits
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HITS2.m3u8
-
-#EXTINF:-1 group-title="ALT" tvg-logo="https://i.postimg.cc/D0v1BJZH/hitm.png", Hits Movies
-#EXTVLCOPT:http-user-agent=EXOplay533
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hits%20movies.m3u8
-
-#EXTINF:-1 tvg-logo="https://hyken.com/wp-content/uploads/2023/01/Apple-TV-Logo-2019-present.png" group-title="ALT", Apple TV+ (test)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/apple.m3u8
 
 #EXTM3U billed-msg="uyey™ TV | Tidak diperjualbelikan, hanya penyusunan ulang playlist"
