@@ -806,6 +806,15 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio7.m3u8
 DAZN GROUP
 ==================================================================================================================================================
 
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 BE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe1.m3u8
+
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2 BE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe2.m3u8
+
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3 BE
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe3.m3u8
+
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 1
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
 
@@ -868,15 +877,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznesll1.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN LaLiga 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznesll2.m3u8
-
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 BE
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe1.m3u8
-
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 2 BE
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe2.m3u8
-
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 3 BE
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe3.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN Pro League 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbepro1.m3u8
