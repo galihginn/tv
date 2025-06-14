@@ -816,22 +816,22 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe2.m3u8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznbe3.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%201.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt1.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%202.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt2.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%203.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt3.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%204.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt4.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%205.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt5.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 6
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dazn%20eleven%206.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznpt6.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 Bar DE
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznde1.m3u8
