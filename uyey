@@ -1336,6 +1336,15 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls18.m3u8
 + LIVE MATCH
 ==================================================================================================================================================
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.stickpng.com/images/5f539403060f2e000485807a.png" group-title="+ LIVE MATCH", LIVE EVENT 1
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/1live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.stickpng.com/images/5f539403060f2e000485807a.png" group-title="+ LIVE MATCH", LIVE EVENT 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/2live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.stickpng.com/images/5f539403060f2e000485807a.png" group-title="+ LIVE MATCH", LIVE EVENT 3
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/3live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/OptusSport.png" group-title="+ LIVE MATCH", Optus Sport 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/optus1.m3u8
 
