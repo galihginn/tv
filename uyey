@@ -667,6 +667,28 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now6.m3u8
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now7.m3u8
 
 ==================================================================================================================================================
+FIFA CLUB WORLD CUP 2025
+==================================================================================================================================================
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", DAZN FR
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznfr1.m3u8
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", RUSH
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25rush.m3u8
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", CHANNEL 5
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25ch5.m3u8
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", TBS
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25tbs.m3u8
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", TNT
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25tnt.m3u8
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", TRU
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25tru.m3u8
+
+==================================================================================================================================================
 SKY GROUP
 ==================================================================================================================================================
 
@@ -791,7 +813,7 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/skyitcalcio7.m3u8
 DAZN GROUP
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", DAZN 1 FR
+#EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DAZN_LOGO.png", DAZN 1 FR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznfr1.m3u8
 
 #EXTINF:-1 group-title="⚫ DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DAZN11.png/1600px-DAZN11.png?20231023234847", DAZN Eleven 1
