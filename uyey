@@ -431,10 +431,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1747989339764572160/7nxm03-2_400x400.jpg", LaLiga TV
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/laligatv.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png", FIFA+ CA
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png", FIFA+ UK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png", FIFA+ TV
 https://jmp2.uk/plu-63d91d2560bc8f0008a225e4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.ci-portal.de/wp-content/uploads/eurosport.png", Eurosport Asia
@@ -464,28 +461,24 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
-#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS", UFC Fight Pass
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS", WWE Network
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS", Impact Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/pj6zyon.png", Strongman Champions League
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS", WWE Network
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/wwe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS", Impact Wrestling
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/impact.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/jdy7nT1M/mutv.png", MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MUTV.m3u8
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mutv.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dVNdP4Jp/c7270930-a160-11ed-aa9d-03c6add3a597.jpg", LFCTV
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/LFCTV.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/lfctv.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/R0yJDhvH/realmadridtv.jpg", Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/rmtv.m3u8
 
 ==================================================================================================================================================
 SPORTSERVER
@@ -539,76 +532,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv6.m3u8
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV 7
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv7.m3u8
 
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/pi8ipf6.png", Eleven Sports 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%201.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/dJpSG5v.png", Eleven Sports 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%202.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/0yyPvbr.png", Eleven Sports 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ELEVEN%20SPORTS%203.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/N4JqWOO.png", Digi Sport 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%201.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/xhwYAj2.png", Digi Sport 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%202.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/mIY63ZL.png", Digi Sport 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%203.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/VGtk3wd.png", Digi Sport 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DIGI%20SPORT%204.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/MiExJz2.png", Eurosport 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/MiExJz2.png", Eurosport 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://i.imgur.com/uW8jAsQ.png", Movistar Liga de Campeones
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MOVISTAR%20LIGA%20DE%20CAMPEONES.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="SPORTSERVER", Canal+ Premier League
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/canal%20plus%20premier%20league.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-id="truesports1.th" tvg-logo="https://i.imgur.com/1HLO0Hj.png", True Sports 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTSERVER" tvg-id="truesports3.th" tvg-logo="https://i.imgur.com/U5Mjlca.png", True Sports 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTSERVER", Dubai Sports 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dubai%20sports%201.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTSERVER", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cCwymkV.png" group-title="SPORTSERVER", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%201.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC 2
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%202.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC 3
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%203.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC 4
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%204.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC 5
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%205.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8SA42gK.png" group-title="SPORTSERVER", SSC News
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SSC%20NEWS.m3u8
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTSERVER", Astro Premier League
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroepl1.m3u8
 
@@ -642,9 +565,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="SPORTSERVER", Astro Arena 2
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/astroarena2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTSERVER", Astro Cricket
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTSERVER", Now Sports Prime
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/nowprime.m3u8
 
@@ -676,14 +596,17 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/now7.m3u8
 FIFA CLUB WORLD CUP 2025
 ==================================================================================================================================================
 
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", RUSH SPORTS
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25rush.m3u8
+
+#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", RUSH SPORTS 2
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25rush2.m3u8
+
 #EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", DAZN FR
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznfr1.m3u8
 
 #EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", DAZN IT
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/daznitfootball.m3u8
-
-#EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", RUSH
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25rush.m3u8
 
 #EXTINF:-1 group-title="🌐 FIFA CLUB WORLD CUP 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/500px-2025_FIFA_Club_World_Cup.svg.png", CHANNEL 5
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25ch5.m3u8
@@ -5045,63 +4968,71 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/russkayanoch.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/frenchlover.m3u8
 
+#EXTINF:-1 tvg-logo="http://epg.one/img/5392.png" group-title="TRIPLEX", Yosso Sexy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/yosso.m3u8
+
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/shaluntv.png" group-title="TRIPLEX", Shalun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/shalun.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-teens.png" group-title="TRIPLEX", Fap Teens
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/fapteens.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-compilation.png" group-title="TRIPLEX", Fap Compilation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/fapcomp.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/babes-tv.png group-title="TRIPLEX", Babes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/babes.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/dorcel-tv.png" group-title="TRIPLEX", Dorcel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/dorcel.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/erox-hd.png" group-title="TRIPLEX", Erox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/erox.m3u8
-
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/blue-hustler.png" group-title="TRIPLEX", Blue Hustler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/bluehustler.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/hustler_hd.png" group-title="TRIPLEX", Hustler
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/exxxotica.png" group-title="TRIPLEX", Exxxotica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/hustler.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/kinoxxx.png" group-title="TRIPLEX", KinoX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/kinoxxx.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/oh-ah.png" group-title="TRIPLEX", OxAx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/oxax.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/exxxotica.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/penthouse-gold.png" group-title="TRIPLEX", Penthouse Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/penthousegold.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/redlight-hd.png" group-title="TRIPLEX", Redlight
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-teens.png" group-title="TRIPLEX", Fap Teens *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/fapteens.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-compilation.png" group-title="TRIPLEX", Fap Compilation *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/fapcomp.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/dorcel-tv.png" group-title="TRIPLEX", Dorcel *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/dorcel.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/erox-hd.png" group-title="TRIPLEX", Erox *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/erox.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/hustler_hd.png" group-title="TRIPLEX", Hustler *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/hustler.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/kinoxxx.png" group-title="TRIPLEX", KinoX *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/kinoxxx.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/oh-ah.png" group-title="TRIPLEX", OxAx *
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/oxax.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/redlight-hd.png" group-title="TRIPLEX", Redlight *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/redlight.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/red_lips.png" group-title="TRIPLEX", Red Lips
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/red_lips.png" group-title="TRIPLEX", Red Lips *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/redlips.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/xy_plus.png" group-title="TRIPLEX", XY Plus
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/xy_plus.png" group-title="TRIPLEX", XY Plus *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/xyplus.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/xxl.png" group-title="TRIPLEX", XXL
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/xxl.png" group-title="TRIPLEX", XXL *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/xxl.m3u8
 
@@ -5116,10 +5047,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/nuart.m3u8
 #EXTINF:-1 tvg-logo="https://profile-pics-cdn77.xvideos-cdn.com/feJwT-XJFoj_IWYiC5dGJw==,1748239830/videos/profiles/profthumb/7c/43/40/cum4k-1/profile_1_big.jpg" group-title="TRIPLEX", Cum4k *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/cum4k.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/5392.png" group-title="TRIPLEX", Yosso Sexy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/yosso.m3u8
 
 =====================================================================================================
 -
