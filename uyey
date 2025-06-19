@@ -470,14 +470,19 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/wwe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS", Impact Wrestling
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/impact.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/jdy7nT1M/mutv.png", MUTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/400px-Manchester_United_FC_crest.svg.png", MUTV
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mutv.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dVNdP4Jp/c7270930-a160-11ed-aa9d-03c6add3a597.jpg", LFCTV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/400px-Liverpool_FC.svg.png", LFCTV
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/lfctv.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/R0yJDhvH/realmadridtv.jpg", Real Madrid TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/500px-FC_Internazionale_Milano_2021.svg.png", Inter TV
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/imfctv.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/330px-Logo_of_AC_Milan.svg.png", Milan TV
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/milantv.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/340px-Real_Madrid_CF.svg.png", Real Madrid TV
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/rmtv.m3u8
 
 ==================================================================================================================================================
@@ -4976,7 +4981,7 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/yosso.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/shalun.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/babes-tv.png group-title="TRIPLEX", Babes
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/babes-tv.png" group-title="TRIPLEX", Babes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/babes.m3u8
 
