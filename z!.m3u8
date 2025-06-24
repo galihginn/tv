@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+https://vod1.stb.tvime.ru/Z_Adult/tracks-v1a1/mono.m3u8
