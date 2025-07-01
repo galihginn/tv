@@ -59,14 +59,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png", Galaxy
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png", Galaxy Premium
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch513_174_125", Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5015,87 +5019,136 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/playboy_tv.png" group-title="TRIPLEX", Playboy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/playboy.m3u8
+https://vod1.stb.tvime.ru/Playboy_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://fast.ntvplus.tv/files/image/10/05/183/-channel!uc8.png" group-title="TRIPLEX", Russkaya Noch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/russkayanoch.m3u8
+https://vod1.stb.tvime.ru/Russkaia_Noch_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/french_lover_tv.png" group-title="TRIPLEX", French Lover
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/frenchlover.m3u8
+https://vod1.stb.tvime.ru/FrenchLover/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/5392.png" group-title="TRIPLEX", Yosso Sexy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/yosso.m3u8
+https://vod.stb.tvime.ru/Yosso_TV_Sexy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/shaluntv.png" group-title="TRIPLEX", Shalun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/shalun.m3u8
+https://vs3.cdn.tvime.ru/Shalun-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/babes-tv.png" group-title="TRIPLEX", Babes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/babes.m3u8
+https://vod1.stb.tvime.ru/Babes_TV_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/blue-hustler.png" group-title="TRIPLEX", Blue Hustler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/bluehustler.m3u8
+https://vod1.stb.tvime.ru/Blue_Hustler/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/exxxotica.png" group-title="TRIPLEX", Exxxotica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/exxxotica.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/penthouse-gold.png" group-title="TRIPLEX", Penthouse Gold
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/penthousegold.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/dorcel-tv.png" group-title="TRIPLEX", Dorcel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/dorcel.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/erox-hd.png" group-title="TRIPLEX", Erox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/erox.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/hustler_hd.png" group-title="TRIPLEX", Hustler
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/hustler.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/kinoxxx.png" group-title="TRIPLEX", KinoX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/kinoxxx.m3u8
-
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/redlight-hd.png" group-title="TRIPLEX", Redlight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/redlight.m3u8
+https://vod1.stb.tvime.ru/Exxxotica_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://sweet-tv.net/images/red_lips.png" group-title="TRIPLEX", Red Lips
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/redlips.m3u8
+https://vod1.stb.tvime.ru/Red_Lips_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Brazzers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://vod1.stb.tvime.ru/Brazzers_TV_Europe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Barely Legal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://vod1.stb.tvime.ru/Barely_Legal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/500px-Zee_TV_2025.svg.png" group-title="TRIPLEX", Z!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/z!.m3u8
+https://vod1.stb.tvime.ru/Z_Adult/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-teens.png" group-title="TRIPLEX", Fap Teens *
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/fapteens.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/fap-tv-compilation.png" group-title="TRIPLEX", Fap Compilation *
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/kinoxxx.png" group-title="TRIPLEX", KinoX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/fapcomp.m3u8
+https://ortepe.xyz:25793/tv/kinoxxx/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/oh-ah.png" group-title="TRIPLEX", OxAx *
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/hustler_hd.png" group-title="TRIPLEX", Hustler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/oxax.m3u8
+https://ortepe.xyz:25793/tv/hustlertv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/xy_plus.png" group-title="TRIPLEX", XY Plus *
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/penthouse-gold.png" group-title="TRIPLEX", Penthouse Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/xyplus.m3u8
+https://ortepe.xyz:25793/tv/penthouse/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/xxl.png" group-title="TRIPLEX", XXL *
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Penthouse Passion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/xxl.m3u8
+https://ortepe.xyz:25793/tv/penthousepassion/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Penthouse Reality
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/penthousereality/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/redlight-hd.png" group-title="TRIPLEX", Redlight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/redlight/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/dorcel-tv.png" group-title="TRIPLEX", Dorcel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/dorcel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/oh-ah.png" group-title="TRIPLEX", OxAx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/oxax/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://sweet-tv.net/images/erox-hd.png" group-title="TRIPLEX", Erox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/eroxxx/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Hustler HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/hustlerhd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Vivid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/vivid/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Super One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/superone/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", PinkO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/pinko/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Extasy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/extasy/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Passie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/passie/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Pink Erotic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/pinkerotic1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Pink Erotic 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/pinkerotic7/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Pink Erotic 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/pinkerotic8/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Private
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/private/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Meiden van Holland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/meidenvanholland/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Cento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ortepe.xyz:25793/tv/cento/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://secretcircle.com/sc_logo_trans.png" group-title="TRIPLEX", Secret Circle *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -5104,10 +5157,6 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/secretcircle.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/nuart-tv.png" group-title="TRIPLEX", Nuart *
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/nuart.m3u8
-
-#EXTINF:-1 tvg-logo="https://profile-pics-cdn77.xvideos-cdn.com/feJwT-XJFoj_IWYiC5dGJw==,1748239830/videos/profiles/profthumb/7c/43/40/cum4k-1/profile_1_big.jpg" group-title="TRIPLEX", Cum4k *
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/x3/cum4k.m3u8
 
 =====================================================================================================
 -
