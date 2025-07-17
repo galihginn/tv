@@ -194,12 +194,15 @@ http://theaztech.com/live/Nigel123/Nigel123/175513.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Spy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://theaztech.com/live/Nigel123/Nigel123/175605.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Redbox 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://theaztech.com/live/Nigel123/Nigel123/175594m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TRIPLEX", Miami Latino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://theaztech.com/live/Nigel123/Nigel123/175478.m3u8
