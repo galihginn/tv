@@ -467,7 +467,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
 
-#EXTINF:-1 tvg-id="Premier League TV.id" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-768x322.png" group-title="SPORTS", Premier League TV
+#EXTINF:-1 tvg-id="Premier League TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="SPORTS", Premier League TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -514,7 +514,7 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS", Impact Wrestling
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/impact.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS", WWE Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/838px-WWE_official_logo.svg.png" group-title="SPORTS", WWE Network
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/wwe.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/Manchester_United_FC_crest.svg/400px-Manchester_United_FC_crest.svg.png", MUTV
@@ -1536,7 +1536,7 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/setanta20.m3u8
 ENTERTAINMENT
 ==================================================================================================================================================
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kplus.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg", K+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="kplus.id" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png", K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
@@ -1582,19 +1582,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg", Lifetime
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png", Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Asian Food Network
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/500px-Asian_Food_Network.svg.png", Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Food Network
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/400px-Food_Network_logo.svg.png", Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1606,20 +1606,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png", TLC
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/370px-TLC_Logo.svg.png", TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-id=techstorm.id" tvg-logo="https://i.postimg.cc/WzHn678d/techstorm.png", Tech Storm
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantv_pro.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Na1vGXR.png", Fashion TV Global
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1080,h=1054,fit=crop/mxB7g4GZKbTeOB8R/logo-ftv-YyvZ7oR8EDSORnw4.png", Fashion TV Global
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1694,31 +1696,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/Kz00bJbt/National-Geographic.png", National Geograpic
-http://173.225.246.25:8889/udp/239.203.20.73:4003
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/QNSbK6R7/natgeowild.png", Nat Geo Wild
-http://173.225.246.25:8889/udp/239.203.20.74:4003
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png", National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="562", National Geographic US
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeo.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="563", National Geographic CA
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeoca.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" ch-number="563", National Geographic UK
-https://raw.githubusercontent.com/Ortsa8/stream/main/docu/natgeouk.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png", Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="" tvg-name="" tvg-logo="", Trvl Channel
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="nasatv.us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
