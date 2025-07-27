@@ -561,10 +561,10 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/premiersports1.m3u
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/premiersports2.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://img.einpresswire.com/medium/722474/rush-sports.png", Rush Sports
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25rush.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/rush.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://img.einpresswire.com/medium/722474/rush-sports.png", Rush Sports 2
-https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/25rush2.m3u8
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/rush2.m3u8
 
 #EXTINF:-1 group-title="SPORTSERVER" tvg-logo="https://intranet.sporttv.pt/cms/media/images/public/4py6mehk58gkcxqqg857yx2sxd/logo_sporttv4.png", Sport TV +
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/sporttv+.m3u8
@@ -1391,6 +1391,33 @@ https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/mls18.m3u8
 ==================================================================================================================================================
 + LIVE MATCH
 ==================================================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/500px-CBS_Sports_logo.svg.png?20180325235619" group-title="+ LIVE MATCH", CBS Sports
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CBS_Sports_logo.svg/500px-CBS_Sports_logo.svg.png?20180325235619" group-title="+ LIVE MATCH", CBS Golazo
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1600px-NBC_Sports_2023.svg.png?20250122223012" group-title="+ LIVE MATCH", NBC Sports
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/bbc-logo-black-and-white.png" group-title="+ LIVE MATCH", BBC
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/960px-Channel_5_2025.svg.png" group-title="+ LIVE MATCH", Channel 5
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" group-title="+ LIVE MATCH", USA
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/16rsdr1657046269.png" group-title="+ LIVE MATCH", TNT
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/TBS.png" group-title="+ LIVE MATCH", TBS
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="+ LIVE MATCH", TRU
+https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/us-.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.stickpng.com/images/5f539403060f2e000485807a.png" group-title="+ LIVE MATCH", LIVE EVENT 1
 https://raw.githubusercontent.com/galihginn/tv/refs/heads/src/1live.m3u8
